@@ -1,0 +1,2892 @@
+Starting loop for year 1995
+base+pattern) /work/shared/imr/NorKyst-800m/NorKyst800_hindcast_1995-2005/his/1995/norkyst_800m_his.nc4_*
+Time found in input data covering: 1995-01-01 12:00:00 to 1996-01-01 00:00:00
+Extracting data for 1995-06-01 00:00:00 (start:Fri Dec  9 14:18:33 2016)
+(902, 2602) 6.54476977636
+Writing timestep 0
+Extract data finished (end:Fri Dec  9 14:18:48 2016)
+Extracting data for 1995-06-01 01:00:00 (start:Fri Dec  9 14:18:48 2016)
+(902, 2602) 6.53785970901
+Writing timestep 1
+Extract data finished (end:Fri Dec  9 14:19:02 2016)
+Extracting data for 1995-06-01 02:00:00 (start:Fri Dec  9 14:19:02 2016)
+(902, 2602) 6.53093750968
+Writing timestep 2
+Extract data finished (end:Fri Dec  9 14:19:16 2016)
+Extracting data for 1995-06-01 03:00:00 (start:Fri Dec  9 14:19:16 2016)
+(902, 2602) 6.5240412001
+Writing timestep 3
+Extract data finished (end:Fri Dec  9 14:19:30 2016)
+Extracting data for 1995-06-01 04:00:00 (start:Fri Dec  9 14:19:30 2016)
+(902, 2602) 6.51823289559
+Writing timestep 4
+Extract data finished (end:Fri Dec  9 14:19:45 2016)
+Extracting data for 1995-06-01 05:00:00 (start:Fri Dec  9 14:19:45 2016)
+(902, 2602) 6.51506239146
+Writing timestep 5
+Extract data finished (end:Fri Dec  9 14:19:59 2016)
+Extracting data for 1995-06-01 06:00:00 (start:Fri Dec  9 14:19:59 2016)
+(902, 2602) 6.51476498616
+Writing timestep 6
+Extract data finished (end:Fri Dec  9 14:20:13 2016)
+Extracting data for 1995-06-01 07:00:00 (start:Fri Dec  9 14:20:13 2016)
+(902, 2602) 6.51748694223
+Writing timestep 7
+Extract data finished (end:Fri Dec  9 14:20:27 2016)
+Extracting data for 1995-06-01 08:00:00 (start:Fri Dec  9 14:20:27 2016)
+(902, 2602) 6.52345360883
+Writing timestep 8
+Extract data finished (end:Fri Dec  9 14:20:42 2016)
+Extracting data for 1995-06-01 09:00:00 (start:Fri Dec  9 14:20:42 2016)
+(902, 2602) 6.53221290567
+Writing timestep 9
+Extract data finished (end:Fri Dec  9 14:20:56 2016)
+Extracting data for 1995-06-01 10:00:00 (start:Fri Dec  9 14:20:56 2016)
+(902, 2602) 6.54332244725
+Writing timestep 10
+Extract data finished (end:Fri Dec  9 14:21:11 2016)
+Extracting data for 1995-06-01 11:00:00 (start:Fri Dec  9 14:21:11 2016)
+(902, 2602) 6.55596559103
+Writing timestep 11
+Extract data finished (end:Fri Dec  9 14:21:25 2016)
+Extracting data for 1995-06-01 12:00:00 (start:Fri Dec  9 14:21:25 2016)
+(902, 2602) 6.56928093647
+Writing timestep 12
+Extract data finished (end:Fri Dec  9 14:21:40 2016)
+Extracting data for 1995-06-01 13:00:00 (start:Fri Dec  9 14:21:40 2016)
+(902, 2602) 6.58332711615
+Writing timestep 13
+Extract data finished (end:Fri Dec  9 14:21:54 2016)
+Extracting data for 1995-06-01 14:00:00 (start:Fri Dec  9 14:21:54 2016)
+(902, 2602) 6.59849643551
+Writing timestep 14
+Extract data finished (end:Fri Dec  9 14:22:09 2016)
+Extracting data for 1995-06-01 15:00:00 (start:Fri Dec  9 14:22:09 2016)
+(902, 2602) 6.61480192475
+Writing timestep 15
+Extract data finished (end:Fri Dec  9 14:22:23 2016)
+Extracting data for 1995-06-01 16:00:00 (start:Fri Dec  9 14:22:23 2016)
+(902, 2602) 6.63013890067
+Writing timestep 16
+Extract data finished (end:Fri Dec  9 14:22:38 2016)
+Extracting data for 1995-06-01 17:00:00 (start:Fri Dec  9 14:22:38 2016)
+(902, 2602) 6.6418369071
+Writing timestep 17
+Extract data finished (end:Fri Dec  9 14:22:52 2016)
+Extracting data for 1995-06-01 18:00:00 (start:Fri Dec  9 14:22:52 2016)
+(902, 2602) 6.64909099187
+Writing timestep 18
+Extract data finished (end:Fri Dec  9 14:23:07 2016)
+Extracting data for 1995-06-01 19:00:00 (start:Fri Dec  9 14:23:07 2016)
+(902, 2602) 6.65233266605
+Writing timestep 19
+Extract data finished (end:Fri Dec  9 14:23:22 2016)
+Extracting data for 1995-06-01 20:00:00 (start:Fri Dec  9 14:23:22 2016)
+(902, 2602) 6.6516953257
+Writing timestep 20
+Extract data finished (end:Fri Dec  9 14:23:37 2016)
+Extracting data for 1995-06-01 21:00:00 (start:Fri Dec  9 14:23:37 2016)
+(902, 2602) 6.64613369564
+Writing timestep 21
+Extract data finished (end:Fri Dec  9 14:23:52 2016)
+Extracting data for 1995-06-01 22:00:00 (start:Fri Dec  9 14:23:52 2016)
+(902, 2602) 6.63740363659
+Writing timestep 22
+Extract data finished (end:Fri Dec  9 14:24:07 2016)
+Extracting data for 1995-06-01 23:00:00 (start:Fri Dec  9 14:24:07 2016)
+(902, 2602) 6.62874572945
+Writing timestep 23
+Extract data finished (end:Fri Dec  9 14:24:21 2016)
+Extracting data for 1995-06-02 00:00:00 (start:Fri Dec  9 14:24:21 2016)
+(902, 2602) 6.62101837771
+Writing timestep 24
+Extract data finished (end:Fri Dec  9 14:24:36 2016)
+Extracting data for 1995-06-02 01:00:00 (start:Fri Dec  9 14:24:36 2016)
+(902, 2602) 6.61237982864
+Writing timestep 25
+Extract data finished (end:Fri Dec  9 14:24:51 2016)
+Extracting data for 1995-06-02 02:00:00 (start:Fri Dec  9 14:24:51 2016)
+(902, 2602) 6.60283613358
+Writing timestep 26
+Extract data finished (end:Fri Dec  9 14:25:06 2016)
+Extracting data for 1995-06-02 03:00:00 (start:Fri Dec  9 14:25:06 2016)
+(902, 2602) 6.59319792776
+Writing timestep 27
+Extract data finished (end:Fri Dec  9 14:25:21 2016)
+Extracting data for 1995-06-02 04:00:00 (start:Fri Dec  9 14:25:21 2016)
+(902, 2602) 6.58532569245
+Writing timestep 28
+Extract data finished (end:Fri Dec  9 14:25:36 2016)
+Extracting data for 1995-06-02 05:00:00 (start:Fri Dec  9 14:25:36 2016)
+(902, 2602) 6.5817468217
+Writing timestep 29
+Extract data finished (end:Fri Dec  9 14:25:51 2016)
+Extracting data for 1995-06-02 06:00:00 (start:Fri Dec  9 14:25:51 2016)
+(902, 2602) 6.58147383769
+Writing timestep 30
+Extract data finished (end:Fri Dec  9 14:26:06 2016)
+Extracting data for 1995-06-02 07:00:00 (start:Fri Dec  9 14:26:06 2016)
+(902, 2602) 6.58521200784
+Writing timestep 31
+Extract data finished (end:Fri Dec  9 14:26:21 2016)
+Extracting data for 1995-06-02 08:00:00 (start:Fri Dec  9 14:26:21 2016)
+(902, 2602) 6.59323414866
+Writing timestep 32
+Extract data finished (end:Fri Dec  9 14:26:36 2016)
+Extracting data for 1995-06-02 09:00:00 (start:Fri Dec  9 14:26:36 2016)
+(902, 2602) 6.60551613896
+Writing timestep 33
+Extract data finished (end:Fri Dec  9 14:26:51 2016)
+Extracting data for 1995-06-02 10:00:00 (start:Fri Dec  9 14:26:51 2016)
+(902, 2602) 6.62026644494
+Writing timestep 34
+Extract data finished (end:Fri Dec  9 14:27:06 2016)
+Extracting data for 1995-06-02 11:00:00 (start:Fri Dec  9 14:27:06 2016)
+(902, 2602) 6.63500444215
+Writing timestep 35
+Extract data finished (end:Fri Dec  9 14:27:21 2016)
+Extracting data for 1995-06-02 12:00:00 (start:Fri Dec  9 14:27:21 2016)
+(902, 2602) 6.6487015821
+Writing timestep 36
+Extract data finished (end:Fri Dec  9 14:27:36 2016)
+Extracting data for 1995-06-02 13:00:00 (start:Fri Dec  9 14:27:36 2016)
+(902, 2602) 6.66199830278
+Writing timestep 37
+Extract data finished (end:Fri Dec  9 14:27:51 2016)
+Extracting data for 1995-06-02 14:00:00 (start:Fri Dec  9 14:27:51 2016)
+(902, 2602) 6.67507169307
+Writing timestep 38
+Extract data finished (end:Fri Dec  9 14:28:06 2016)
+Extracting data for 1995-06-02 15:00:00 (start:Fri Dec  9 14:28:06 2016)
+(902, 2602) 6.68841733874
+Writing timestep 39
+Extract data finished (end:Fri Dec  9 14:28:21 2016)
+Extracting data for 1995-06-02 16:00:00 (start:Fri Dec  9 14:28:21 2016)
+(902, 2602) 6.70380263133
+Writing timestep 40
+Extract data finished (end:Fri Dec  9 14:28:36 2016)
+Extracting data for 1995-06-02 17:00:00 (start:Fri Dec  9 14:28:36 2016)
+(902, 2602) 6.71385926928
+Writing timestep 41
+Extract data finished (end:Fri Dec  9 14:28:51 2016)
+Extracting data for 1995-06-02 18:00:00 (start:Fri Dec  9 14:28:51 2016)
+(902, 2602) 6.71898132722
+Writing timestep 42
+Extract data finished (end:Fri Dec  9 14:29:06 2016)
+Extracting data for 1995-06-02 19:00:00 (start:Fri Dec  9 14:29:06 2016)
+(902, 2602) 6.7208972426
+Writing timestep 43
+Extract data finished (end:Fri Dec  9 14:29:21 2016)
+Extracting data for 1995-06-02 20:00:00 (start:Fri Dec  9 14:29:21 2016)
+(902, 2602) 6.72004963551
+Writing timestep 44
+Extract data finished (end:Fri Dec  9 14:29:36 2016)
+Extracting data for 1995-06-02 21:00:00 (start:Fri Dec  9 14:29:36 2016)
+(902, 2602) 6.71681155566
+Writing timestep 45
+Extract data finished (end:Fri Dec  9 14:29:52 2016)
+Extracting data for 1995-06-02 22:00:00 (start:Fri Dec  9 14:29:52 2016)
+(902, 2602) 6.71239514175
+Writing timestep 46
+Extract data finished (end:Fri Dec  9 14:30:07 2016)
+Extracting data for 1995-06-02 23:00:00 (start:Fri Dec  9 14:30:07 2016)
+(902, 2602) 6.70672745606
+Writing timestep 47
+Extract data finished (end:Fri Dec  9 14:30:22 2016)
+Extracting data for 1995-06-03 00:00:00 (start:Fri Dec  9 14:30:22 2016)
+(902, 2602) 6.70060013013
+Writing timestep 48
+Extract data finished (end:Fri Dec  9 14:30:37 2016)
+Extracting data for 1995-06-03 01:00:00 (start:Fri Dec  9 14:30:37 2016)
+(902, 2602) 6.69375630662
+Writing timestep 49
+Extract data finished (end:Fri Dec  9 14:30:53 2016)
+Extracting data for 1995-06-03 02:00:00 (start:Fri Dec  9 14:30:53 2016)
+(902, 2602) 6.68657520439
+Writing timestep 50
+Extract data finished (end:Fri Dec  9 14:31:08 2016)
+Extracting data for 1995-06-03 03:00:00 (start:Fri Dec  9 14:31:08 2016)
+(902, 2602) 6.67970711349
+Writing timestep 51
+Extract data finished (end:Fri Dec  9 14:31:23 2016)
+Extracting data for 1995-06-03 04:00:00 (start:Fri Dec  9 14:31:23 2016)
+(902, 2602) 6.67444831923
+Writing timestep 52
+Extract data finished (end:Fri Dec  9 14:31:38 2016)
+Extracting data for 1995-06-03 05:00:00 (start:Fri Dec  9 14:31:38 2016)
+(902, 2602) 6.67257244741
+Writing timestep 53
+Extract data finished (end:Fri Dec  9 14:31:53 2016)
+Extracting data for 1995-06-03 06:00:00 (start:Fri Dec  9 14:31:53 2016)
+(902, 2602) 6.67420523534
+Writing timestep 54
+Extract data finished (end:Fri Dec  9 14:32:08 2016)
+Extracting data for 1995-06-03 07:00:00 (start:Fri Dec  9 14:32:08 2016)
+(902, 2602) 6.679810238
+Writing timestep 55
+Extract data finished (end:Fri Dec  9 14:32:23 2016)
+Extracting data for 1995-06-03 08:00:00 (start:Fri Dec  9 14:32:23 2016)
+(902, 2602) 6.69036688754
+Writing timestep 56
+Extract data finished (end:Fri Dec  9 14:32:38 2016)
+Extracting data for 1995-06-03 09:00:00 (start:Fri Dec  9 14:32:38 2016)
+(902, 2602) 6.70541695601
+Writing timestep 57
+Extract data finished (end:Fri Dec  9 14:32:53 2016)
+Extracting data for 1995-06-03 10:00:00 (start:Fri Dec  9 14:32:53 2016)
+(902, 2602) 6.72364308095
+Writing timestep 58
+Extract data finished (end:Fri Dec  9 14:33:08 2016)
+Extracting data for 1995-06-03 11:00:00 (start:Fri Dec  9 14:33:08 2016)
+(902, 2602) 6.74373303957
+Writing timestep 59
+Extract data finished (end:Fri Dec  9 14:33:23 2016)
+Extracting data for 1995-06-03 12:00:00 (start:Fri Dec  9 14:33:23 2016)
+(902, 2602) 6.76447151959
+Writing timestep 60
+Extract data finished (end:Fri Dec  9 14:33:39 2016)
+Extracting data for 1995-06-03 13:00:00 (start:Fri Dec  9 14:33:39 2016)
+(902, 2602) 6.78509095278
+Writing timestep 61
+Extract data finished (end:Fri Dec  9 14:33:54 2016)
+Extracting data for 1995-06-03 14:00:00 (start:Fri Dec  9 14:33:54 2016)
+(902, 2602) 6.80535785472
+Writing timestep 62
+Extract data finished (end:Fri Dec  9 14:34:09 2016)
+Extracting data for 1995-06-03 15:00:00 (start:Fri Dec  9 14:34:09 2016)
+(902, 2602) 6.82440172905
+Writing timestep 63
+Extract data finished (end:Fri Dec  9 14:34:24 2016)
+Extracting data for 1995-06-03 16:00:00 (start:Fri Dec  9 14:34:24 2016)
+(902, 2602) 6.84078479229
+Writing timestep 64
+Extract data finished (end:Fri Dec  9 14:34:39 2016)
+Extracting data for 1995-06-03 17:00:00 (start:Fri Dec  9 14:34:39 2016)
+(902, 2602) 6.8553753728
+Writing timestep 65
+Extract data finished (end:Fri Dec  9 14:34:54 2016)
+Extracting data for 1995-06-03 18:00:00 (start:Fri Dec  9 14:34:54 2016)
+(902, 2602) 6.86761580014
+Writing timestep 66
+Extract data finished (end:Fri Dec  9 14:35:09 2016)
+Extracting data for 1995-06-03 19:00:00 (start:Fri Dec  9 14:35:09 2016)
+(902, 2602) 6.87718080633
+Writing timestep 67
+Extract data finished (end:Fri Dec  9 14:35:25 2016)
+Extracting data for 1995-06-03 20:00:00 (start:Fri Dec  9 14:35:25 2016)
+(902, 2602) 6.88317106795
+Writing timestep 68
+Extract data finished (end:Fri Dec  9 14:35:40 2016)
+Extracting data for 1995-06-03 21:00:00 (start:Fri Dec  9 14:35:40 2016)
+(902, 2602) 6.88399611858
+Writing timestep 69
+Extract data finished (end:Fri Dec  9 14:35:55 2016)
+Extracting data for 1995-06-03 22:00:00 (start:Fri Dec  9 14:35:55 2016)
+(902, 2602) 6.88060887185
+Writing timestep 70
+Extract data finished (end:Fri Dec  9 14:36:10 2016)
+Extracting data for 1995-06-03 23:00:00 (start:Fri Dec  9 14:36:10 2016)
+(902, 2602) 6.87567334539
+Writing timestep 71
+Extract data finished (end:Fri Dec  9 14:36:25 2016)
+Extracting data for 1995-06-04 00:00:00 (start:Fri Dec  9 14:36:25 2016)
+(902, 2602) 6.87029309663
+Writing timestep 72
+Extract data finished (end:Fri Dec  9 14:36:40 2016)
+Extracting data for 1995-06-04 01:00:00 (start:Fri Dec  9 14:36:40 2016)
+(902, 2602) 6.86345860144
+Writing timestep 73
+Extract data finished (end:Fri Dec  9 14:36:57 2016)
+Extracting data for 1995-06-04 02:00:00 (start:Fri Dec  9 14:36:57 2016)
+(902, 2602) 6.85493761361
+Writing timestep 74
+Extract data finished (end:Fri Dec  9 14:37:12 2016)
+Extracting data for 1995-06-04 03:00:00 (start:Fri Dec  9 14:37:12 2016)
+(902, 2602) 6.84582193518
+Writing timestep 75
+Extract data finished (end:Fri Dec  9 14:37:27 2016)
+Extracting data for 1995-06-04 04:00:00 (start:Fri Dec  9 14:37:27 2016)
+(902, 2602) 6.83897866464
+Writing timestep 76
+Extract data finished (end:Fri Dec  9 14:37:43 2016)
+Extracting data for 1995-06-04 05:00:00 (start:Fri Dec  9 14:37:43 2016)
+(902, 2602) 6.83607380713
+Writing timestep 77
+Extract data finished (end:Fri Dec  9 14:37:58 2016)
+Extracting data for 1995-06-04 06:00:00 (start:Fri Dec  9 14:37:58 2016)
+(902, 2602) 6.83662534608
+Writing timestep 78
+Extract data finished (end:Fri Dec  9 14:38:13 2016)
+Extracting data for 1995-06-04 07:00:00 (start:Fri Dec  9 14:38:13 2016)
+(902, 2602) 6.84122715898
+Writing timestep 79
+Extract data finished (end:Fri Dec  9 14:38:28 2016)
+Extracting data for 1995-06-04 08:00:00 (start:Fri Dec  9 14:38:28 2016)
+(902, 2602) 6.85100032701
+Writing timestep 80
+Extract data finished (end:Fri Dec  9 14:38:43 2016)
+Extracting data for 1995-06-04 09:00:00 (start:Fri Dec  9 14:38:43 2016)
+(902, 2602) 6.86522820653
+Writing timestep 81
+Extract data finished (end:Fri Dec  9 14:38:58 2016)
+Extracting data for 1995-06-04 10:00:00 (start:Fri Dec  9 14:38:58 2016)
+(902, 2602) 6.8827481893
+Writing timestep 82
+Extract data finished (end:Fri Dec  9 14:39:13 2016)
+Extracting data for 1995-06-04 11:00:00 (start:Fri Dec  9 14:39:13 2016)
+(902, 2602) 6.90208871196
+Writing timestep 83
+Extract data finished (end:Fri Dec  9 14:39:28 2016)
+Extracting data for 1995-06-04 12:00:00 (start:Fri Dec  9 14:39:28 2016)
+(902, 2602) 6.9219818784
+Writing timestep 84
+Extract data finished (end:Fri Dec  9 14:39:43 2016)
+Extracting data for 1995-06-04 13:00:00 (start:Fri Dec  9 14:39:43 2016)
+(902, 2602) 6.94148958456
+Writing timestep 85
+Extract data finished (end:Fri Dec  9 14:39:58 2016)
+Extracting data for 1995-06-04 14:00:00 (start:Fri Dec  9 14:39:58 2016)
+(902, 2602) 6.96023918272
+Writing timestep 86
+Extract data finished (end:Fri Dec  9 14:40:13 2016)
+Extracting data for 1995-06-04 15:00:00 (start:Fri Dec  9 14:40:13 2016)
+(902, 2602) 6.97638497529
+Writing timestep 87
+Extract data finished (end:Fri Dec  9 14:40:28 2016)
+Extracting data for 1995-06-04 16:00:00 (start:Fri Dec  9 14:40:28 2016)
+(902, 2602) 6.98869171586
+Writing timestep 88
+Extract data finished (end:Fri Dec  9 14:40:43 2016)
+Extracting data for 1995-06-04 17:00:00 (start:Fri Dec  9 14:40:43 2016)
+(902, 2602) 6.99695289424
+Writing timestep 89
+Extract data finished (end:Fri Dec  9 14:40:58 2016)
+Extracting data for 1995-06-04 18:00:00 (start:Fri Dec  9 14:40:58 2016)
+(902, 2602) 7.00036026207
+Writing timestep 90
+Extract data finished (end:Fri Dec  9 14:41:14 2016)
+Extracting data for 1995-06-04 19:00:00 (start:Fri Dec  9 14:41:14 2016)
+(902, 2602) 7.00005657356
+Writing timestep 91
+Extract data finished (end:Fri Dec  9 14:41:29 2016)
+Extracting data for 1995-06-04 20:00:00 (start:Fri Dec  9 14:41:29 2016)
+(902, 2602) 6.99655192274
+Writing timestep 92
+Extract data finished (end:Fri Dec  9 14:41:45 2016)
+Extracting data for 1995-06-04 21:00:00 (start:Fri Dec  9 14:41:45 2016)
+(902, 2602) 6.99018139088
+Writing timestep 93
+Extract data finished (end:Fri Dec  9 14:42:00 2016)
+Extracting data for 1995-06-04 22:00:00 (start:Fri Dec  9 14:42:00 2016)
+(902, 2602) 6.98206685033
+Writing timestep 94
+Extract data finished (end:Fri Dec  9 14:42:15 2016)
+Extracting data for 1995-06-04 23:00:00 (start:Fri Dec  9 14:42:15 2016)
+(902, 2602) 6.97347287853
+Writing timestep 95
+Extract data finished (end:Fri Dec  9 14:42:30 2016)
+Extracting data for 1995-06-05 00:00:00 (start:Fri Dec  9 14:42:30 2016)
+(902, 2602) 6.96482009309
+Writing timestep 96
+Extract data finished (end:Fri Dec  9 14:42:45 2016)
+Extracting data for 1995-06-05 01:00:00 (start:Fri Dec  9 14:42:45 2016)
+(902, 2602) 6.95652260599
+Writing timestep 97
+Extract data finished (end:Fri Dec  9 14:43:02 2016)
+Extracting data for 1995-06-05 02:00:00 (start:Fri Dec  9 14:43:02 2016)
+(902, 2602) 6.94799104683
+Writing timestep 98
+Extract data finished (end:Fri Dec  9 14:43:17 2016)
+Extracting data for 1995-06-05 03:00:00 (start:Fri Dec  9 14:43:17 2016)
+(902, 2602) 6.93974555287
+Writing timestep 99
+Extract data finished (end:Fri Dec  9 14:43:32 2016)
+Extracting data for 1995-06-05 04:00:00 (start:Fri Dec  9 14:43:32 2016)
+(902, 2602) 6.93310204379
+Writing timestep 100
+Extract data finished (end:Fri Dec  9 14:43:48 2016)
+Extracting data for 1995-06-05 05:00:00 (start:Fri Dec  9 14:43:48 2016)
+(902, 2602) 6.92931122477
+Writing timestep 101
+Extract data finished (end:Fri Dec  9 14:44:03 2016)
+Extracting data for 1995-06-05 06:00:00 (start:Fri Dec  9 14:44:03 2016)
+(902, 2602) 6.92864528454
+Writing timestep 102
+Extract data finished (end:Fri Dec  9 14:44:18 2016)
+Extracting data for 1995-06-05 07:00:00 (start:Fri Dec  9 14:44:18 2016)
+(902, 2602) 6.93107991555
+Writing timestep 103
+Extract data finished (end:Fri Dec  9 14:44:33 2016)
+Extracting data for 1995-06-05 08:00:00 (start:Fri Dec  9 14:44:33 2016)
+(902, 2602) 6.93706421989
+Writing timestep 104
+Extract data finished (end:Fri Dec  9 14:44:48 2016)
+Extracting data for 1995-06-05 09:00:00 (start:Fri Dec  9 14:44:48 2016)
+(902, 2602) 6.94689011174
+Writing timestep 105
+Extract data finished (end:Fri Dec  9 14:45:03 2016)
+Extracting data for 1995-06-05 10:00:00 (start:Fri Dec  9 14:45:03 2016)
+(902, 2602) 6.95993237143
+Writing timestep 106
+Extract data finished (end:Fri Dec  9 14:45:18 2016)
+Extracting data for 1995-06-05 11:00:00 (start:Fri Dec  9 14:45:18 2016)
+(902, 2602) 6.97514693187
+Writing timestep 107
+Extract data finished (end:Fri Dec  9 14:45:34 2016)
+Extracting data for 1995-06-05 12:00:00 (start:Fri Dec  9 14:45:34 2016)
+(902, 2602) 6.99216951661
+Writing timestep 108
+Extract data finished (end:Fri Dec  9 14:45:49 2016)
+Extracting data for 1995-06-05 13:00:00 (start:Fri Dec  9 14:45:49 2016)
+(902, 2602) 7.01045995372
+Writing timestep 109
+Extract data finished (end:Fri Dec  9 14:46:04 2016)
+Extracting data for 1995-06-05 14:00:00 (start:Fri Dec  9 14:46:04 2016)
+(902, 2602) 7.03014022611
+Writing timestep 110
+Extract data finished (end:Fri Dec  9 14:46:19 2016)
+Extracting data for 1995-06-05 15:00:00 (start:Fri Dec  9 14:46:19 2016)
+(902, 2602) 7.04939501611
+Writing timestep 111
+Extract data finished (end:Fri Dec  9 14:46:35 2016)
+Extracting data for 1995-06-05 16:00:00 (start:Fri Dec  9 14:46:35 2016)
+(902, 2602) 7.06582560038
+Writing timestep 112
+Extract data finished (end:Fri Dec  9 14:46:50 2016)
+Extracting data for 1995-06-05 17:00:00 (start:Fri Dec  9 14:46:50 2016)
+(902, 2602) 7.07901972445
+Writing timestep 113
+Extract data finished (end:Fri Dec  9 14:47:05 2016)
+Extracting data for 1995-06-05 18:00:00 (start:Fri Dec  9 14:47:05 2016)
+(902, 2602) 7.08787561618
+Writing timestep 114
+Extract data finished (end:Fri Dec  9 14:47:20 2016)
+Extracting data for 1995-06-05 19:00:00 (start:Fri Dec  9 14:47:20 2016)
+(902, 2602) 7.09136921152
+Writing timestep 115
+Extract data finished (end:Fri Dec  9 14:47:36 2016)
+Extracting data for 1995-06-05 20:00:00 (start:Fri Dec  9 14:47:36 2016)
+(902, 2602) 7.09007312462
+Writing timestep 116
+Extract data finished (end:Fri Dec  9 14:47:51 2016)
+Extracting data for 1995-06-05 21:00:00 (start:Fri Dec  9 14:47:51 2016)
+(902, 2602) 7.08503247431
+Writing timestep 117
+Extract data finished (end:Fri Dec  9 14:48:06 2016)
+Extracting data for 1995-06-05 22:00:00 (start:Fri Dec  9 14:48:06 2016)
+(902, 2602) 7.07820359229
+Writing timestep 118
+Extract data finished (end:Fri Dec  9 14:48:22 2016)
+Extracting data for 1995-06-05 23:00:00 (start:Fri Dec  9 14:48:22 2016)
+(902, 2602) 7.07108280129
+Writing timestep 119
+Extract data finished (end:Fri Dec  9 14:48:37 2016)
+Extracting data for 1995-06-06 00:00:00 (start:Fri Dec  9 14:48:37 2016)
+(902, 2602) 7.06404964097
+Writing timestep 120
+Extract data finished (end:Fri Dec  9 14:48:52 2016)
+Extracting data for 1995-06-06 01:00:00 (start:Fri Dec  9 14:48:52 2016)
+(902, 2602) 7.05661583612
+Writing timestep 121
+Extract data finished (end:Fri Dec  9 14:49:09 2016)
+Extracting data for 1995-06-06 02:00:00 (start:Fri Dec  9 14:49:09 2016)
+(902, 2602) 7.04889092202
+Writing timestep 122
+Extract data finished (end:Fri Dec  9 14:49:25 2016)
+Extracting data for 1995-06-06 03:00:00 (start:Fri Dec  9 14:49:25 2016)
+(902, 2602) 7.04088822257
+Writing timestep 123
+Extract data finished (end:Fri Dec  9 14:49:40 2016)
+Extracting data for 1995-06-06 04:00:00 (start:Fri Dec  9 14:49:40 2016)
+(902, 2602) 7.03434388604
+Writing timestep 124
+Extract data finished (end:Fri Dec  9 14:49:56 2016)
+Extracting data for 1995-06-06 05:00:00 (start:Fri Dec  9 14:49:56 2016)
+(902, 2602) 7.03146377235
+Writing timestep 125
+Extract data finished (end:Fri Dec  9 14:50:11 2016)
+Extracting data for 1995-06-06 06:00:00 (start:Fri Dec  9 14:50:11 2016)
+(902, 2602) 7.0316633133
+Writing timestep 126
+Extract data finished (end:Fri Dec  9 14:50:26 2016)
+Extracting data for 1995-06-06 07:00:00 (start:Fri Dec  9 14:50:26 2016)
+(902, 2602) 7.03457456388
+Writing timestep 127
+Extract data finished (end:Fri Dec  9 14:50:41 2016)
+Extracting data for 1995-06-06 08:00:00 (start:Fri Dec  9 14:50:41 2016)
+(902, 2602) 7.04045358669
+Writing timestep 128
+Extract data finished (end:Fri Dec  9 14:50:57 2016)
+Extracting data for 1995-06-06 09:00:00 (start:Fri Dec  9 14:50:57 2016)
+(902, 2602) 7.04935307792
+Writing timestep 129
+Extract data finished (end:Fri Dec  9 14:51:12 2016)
+Extracting data for 1995-06-06 10:00:00 (start:Fri Dec  9 14:51:12 2016)
+(902, 2602) 7.06213088523
+Writing timestep 130
+Extract data finished (end:Fri Dec  9 14:51:27 2016)
+Extracting data for 1995-06-06 11:00:00 (start:Fri Dec  9 14:51:27 2016)
+(902, 2602) 7.07693139169
+Writing timestep 131
+Extract data finished (end:Fri Dec  9 14:51:43 2016)
+Extracting data for 1995-06-06 12:00:00 (start:Fri Dec  9 14:51:43 2016)
+(902, 2602) 7.09404989129
+Writing timestep 132
+Extract data finished (end:Fri Dec  9 14:51:58 2016)
+Extracting data for 1995-06-06 13:00:00 (start:Fri Dec  9 14:51:58 2016)
+(902, 2602) 7.1131662658
+Writing timestep 133
+Extract data finished (end:Fri Dec  9 14:52:14 2016)
+Extracting data for 1995-06-06 14:00:00 (start:Fri Dec  9 14:52:14 2016)
+(902, 2602) 7.1328251141
+Writing timestep 134
+Extract data finished (end:Fri Dec  9 14:52:29 2016)
+Extracting data for 1995-06-06 15:00:00 (start:Fri Dec  9 14:52:29 2016)
+(902, 2602) 7.15123502666
+Writing timestep 135
+Extract data finished (end:Fri Dec  9 14:52:45 2016)
+Extracting data for 1995-06-06 16:00:00 (start:Fri Dec  9 14:52:45 2016)
+(902, 2602) 7.16677986135
+Writing timestep 136
+Extract data finished (end:Fri Dec  9 14:53:01 2016)
+Extracting data for 1995-06-06 17:00:00 (start:Fri Dec  9 14:53:01 2016)
+(902, 2602) 7.17789614592
+Writing timestep 137
+Extract data finished (end:Fri Dec  9 14:53:16 2016)
+Extracting data for 1995-06-06 18:00:00 (start:Fri Dec  9 14:53:16 2016)
+(902, 2602) 7.18456867988
+Writing timestep 138
+Extract data finished (end:Fri Dec  9 14:53:32 2016)
+Extracting data for 1995-06-06 19:00:00 (start:Fri Dec  9 14:53:32 2016)
+(902, 2602) 7.1862297648
+Writing timestep 139
+Extract data finished (end:Fri Dec  9 14:53:48 2016)
+Extracting data for 1995-06-06 20:00:00 (start:Fri Dec  9 14:53:48 2016)
+(902, 2602) 7.18547812607
+Writing timestep 140
+Extract data finished (end:Fri Dec  9 14:54:03 2016)
+Extracting data for 1995-06-06 21:00:00 (start:Fri Dec  9 14:54:03 2016)
+(902, 2602) 7.18322585458
+Writing timestep 141
+Extract data finished (end:Fri Dec  9 14:54:19 2016)
+Extracting data for 1995-06-06 22:00:00 (start:Fri Dec  9 14:54:19 2016)
+(902, 2602) 7.18134436639
+Writing timestep 142
+Extract data finished (end:Fri Dec  9 14:54:35 2016)
+Extracting data for 1995-06-06 23:00:00 (start:Fri Dec  9 14:54:35 2016)
+(902, 2602) 7.180676751
+Writing timestep 143
+Extract data finished (end:Fri Dec  9 14:54:51 2016)
+Extracting data for 1995-06-07 00:00:00 (start:Fri Dec  9 14:54:51 2016)
+(902, 2602) 7.17839569161
+Writing timestep 144
+Extract data finished (end:Fri Dec  9 14:55:06 2016)
+Extracting data for 1995-06-07 01:00:00 (start:Fri Dec  9 14:55:06 2016)
+(902, 2602) 7.17283927964
+Writing timestep 145
+Extract data finished (end:Fri Dec  9 14:55:23 2016)
+Extracting data for 1995-06-07 02:00:00 (start:Fri Dec  9 14:55:23 2016)
+(902, 2602) 7.16465378448
+Writing timestep 146
+Extract data finished (end:Fri Dec  9 14:55:39 2016)
+Extracting data for 1995-06-07 03:00:00 (start:Fri Dec  9 14:55:39 2016)
+(902, 2602) 7.15540487266
+Writing timestep 147
+Extract data finished (end:Fri Dec  9 14:55:55 2016)
+Extracting data for 1995-06-07 04:00:00 (start:Fri Dec  9 14:55:55 2016)
+(902, 2602) 7.14734056275
+Writing timestep 148
+Extract data finished (end:Fri Dec  9 14:56:11 2016)
+Extracting data for 1995-06-07 05:00:00 (start:Fri Dec  9 14:56:11 2016)
+(902, 2602) 7.14201418409
+Writing timestep 149
+Extract data finished (end:Fri Dec  9 14:56:27 2016)
+Extracting data for 1995-06-07 06:00:00 (start:Fri Dec  9 14:56:27 2016)
+(902, 2602) 7.13941319385
+Writing timestep 150
+Extract data finished (end:Fri Dec  9 14:56:42 2016)
+Extracting data for 1995-06-07 07:00:00 (start:Fri Dec  9 14:56:42 2016)
+(902, 2602) 7.13987817302
+Writing timestep 151
+Extract data finished (end:Fri Dec  9 14:56:58 2016)
+Extracting data for 1995-06-07 08:00:00 (start:Fri Dec  9 14:56:58 2016)
+(902, 2602) 7.14417931634
+Writing timestep 152
+Extract data finished (end:Fri Dec  9 14:57:14 2016)
+Extracting data for 1995-06-07 09:00:00 (start:Fri Dec  9 14:57:14 2016)
+(902, 2602) 7.15193761914
+Writing timestep 153
+Extract data finished (end:Fri Dec  9 14:57:30 2016)
+Extracting data for 1995-06-07 10:00:00 (start:Fri Dec  9 14:57:30 2016)
+(902, 2602) 7.16319437883
+Writing timestep 154
+Extract data finished (end:Fri Dec  9 14:57:46 2016)
+Extracting data for 1995-06-07 11:00:00 (start:Fri Dec  9 14:57:46 2016)
+(902, 2602) 7.17728019998
+Writing timestep 155
+Extract data finished (end:Fri Dec  9 14:58:02 2016)
+Extracting data for 1995-06-07 12:00:00 (start:Fri Dec  9 14:58:02 2016)
+(902, 2602) 7.19302087537
+Writing timestep 156
+Extract data finished (end:Fri Dec  9 14:58:18 2016)
+Extracting data for 1995-06-07 13:00:00 (start:Fri Dec  9 14:58:18 2016)
+(902, 2602) 7.20952508832
+Writing timestep 157
+Extract data finished (end:Fri Dec  9 14:58:34 2016)
+Extracting data for 1995-06-07 14:00:00 (start:Fri Dec  9 14:58:34 2016)
+(902, 2602) 7.22686338785
+Writing timestep 158
+Extract data finished (end:Fri Dec  9 14:58:50 2016)
+Extracting data for 1995-06-07 15:00:00 (start:Fri Dec  9 14:58:50 2016)
+(902, 2602) 7.24419829136
+Writing timestep 159
+Extract data finished (end:Fri Dec  9 14:59:06 2016)
+Extracting data for 1995-06-07 16:00:00 (start:Fri Dec  9 14:59:06 2016)
+(902, 2602) 7.25972423075
+Writing timestep 160
+Extract data finished (end:Fri Dec  9 14:59:22 2016)
+Extracting data for 1995-06-07 17:00:00 (start:Fri Dec  9 14:59:22 2016)
+(902, 2602) 7.27301026737
+Writing timestep 161
+Extract data finished (end:Fri Dec  9 14:59:37 2016)
+Extracting data for 1995-06-07 18:00:00 (start:Fri Dec  9 14:59:37 2016)
+(902, 2602) 7.28303169499
+Writing timestep 162
+Extract data finished (end:Fri Dec  9 14:59:54 2016)
+Extracting data for 1995-06-07 19:00:00 (start:Fri Dec  9 14:59:54 2016)
+(902, 2602) 7.28537017881
+Writing timestep 163
+Extract data finished (end:Fri Dec  9 15:00:09 2016)
+Extracting data for 1995-06-07 20:00:00 (start:Fri Dec  9 15:00:09 2016)
+(902, 2602) 7.27732917116
+Writing timestep 164
+Extract data finished (end:Fri Dec  9 15:00:25 2016)
+Extracting data for 1995-06-07 21:00:00 (start:Fri Dec  9 15:00:25 2016)
+(902, 2602) 7.26476777527
+Writing timestep 165
+Extract data finished (end:Fri Dec  9 15:00:41 2016)
+Extracting data for 1995-06-07 22:00:00 (start:Fri Dec  9 15:00:41 2016)
+(902, 2602) 7.25067002198
+Writing timestep 166
+Extract data finished (end:Fri Dec  9 15:00:57 2016)
+Extracting data for 1995-06-07 23:00:00 (start:Fri Dec  9 15:00:57 2016)
+(902, 2602) 7.23630269064
+Writing timestep 167
+Extract data finished (end:Fri Dec  9 15:01:13 2016)
+Extracting data for 1995-06-08 00:00:00 (start:Fri Dec  9 15:01:13 2016)
+(902, 2602) 7.22238492861
+Writing timestep 168
+Extract data finished (end:Fri Dec  9 15:01:29 2016)
+Extracting data for 1995-06-08 01:00:00 (start:Fri Dec  9 15:01:29 2016)
+(902, 2602) 7.20961376667
+Writing timestep 169
+Extract data finished (end:Fri Dec  9 15:01:46 2016)
+Extracting data for 1995-06-08 02:00:00 (start:Fri Dec  9 15:01:46 2016)
+(902, 2602) 7.19764534976
+Writing timestep 170
+Extract data finished (end:Fri Dec  9 15:02:01 2016)
+Extracting data for 1995-06-08 03:00:00 (start:Fri Dec  9 15:02:01 2016)
+(902, 2602) 7.18595167642
+Writing timestep 171
+Extract data finished (end:Fri Dec  9 15:02:18 2016)
+Extracting data for 1995-06-08 04:00:00 (start:Fri Dec  9 15:02:18 2016)
+(902, 2602) 7.17612911684
+Writing timestep 172
+Extract data finished (end:Fri Dec  9 15:02:34 2016)
+Extracting data for 1995-06-08 05:00:00 (start:Fri Dec  9 15:02:34 2016)
+(902, 2602) 7.16860545131
+Writing timestep 173
+Extract data finished (end:Fri Dec  9 15:02:50 2016)
+Extracting data for 1995-06-08 06:00:00 (start:Fri Dec  9 15:02:50 2016)
+(902, 2602) 7.16333365057
+Writing timestep 174
+Extract data finished (end:Fri Dec  9 15:03:05 2016)
+Extracting data for 1995-06-08 07:00:00 (start:Fri Dec  9 15:03:05 2016)
+(902, 2602) 7.16060454829
+Writing timestep 175
+Extract data finished (end:Fri Dec  9 15:03:21 2016)
+Extracting data for 1995-06-08 08:00:00 (start:Fri Dec  9 15:03:21 2016)
+(902, 2602) 7.16031140104
+Writing timestep 176
+Extract data finished (end:Fri Dec  9 15:03:37 2016)
+Extracting data for 1995-06-08 09:00:00 (start:Fri Dec  9 15:03:37 2016)
+(902, 2602) 7.16253140644
+Writing timestep 177
+Extract data finished (end:Fri Dec  9 15:03:53 2016)
+Extracting data for 1995-06-08 10:00:00 (start:Fri Dec  9 15:03:53 2016)
+(902, 2602) 7.1669590192
+Writing timestep 178
+Extract data finished (end:Fri Dec  9 15:04:09 2016)
+Extracting data for 1995-06-08 11:00:00 (start:Fri Dec  9 15:04:09 2016)
+(902, 2602) 7.17290164465
+Writing timestep 179
+Extract data finished (end:Fri Dec  9 15:04:25 2016)
+Extracting data for 1995-06-08 12:00:00 (start:Fri Dec  9 15:04:25 2016)
+(902, 2602) 7.18002506302
+Writing timestep 180
+Extract data finished (end:Fri Dec  9 15:04:41 2016)
+Extracting data for 1995-06-08 13:00:00 (start:Fri Dec  9 15:04:41 2016)
+(902, 2602) 7.18816653097
+Writing timestep 181
+Extract data finished (end:Fri Dec  9 15:04:57 2016)
+Extracting data for 1995-06-08 14:00:00 (start:Fri Dec  9 15:04:57 2016)
+(902, 2602) 7.19729574092
+Writing timestep 182
+Extract data finished (end:Fri Dec  9 15:05:13 2016)
+Extracting data for 1995-06-08 15:00:00 (start:Fri Dec  9 15:05:13 2016)
+(902, 2602) 7.20600913281
+Writing timestep 183
+Extract data finished (end:Fri Dec  9 15:05:29 2016)
+Extracting data for 1995-06-08 16:00:00 (start:Fri Dec  9 15:05:29 2016)
+(902, 2602) 7.21330474523
+Writing timestep 184
+Extract data finished (end:Fri Dec  9 15:05:45 2016)
+Extracting data for 1995-06-08 17:00:00 (start:Fri Dec  9 15:05:45 2016)
+(902, 2602) 7.21744259803
+Writing timestep 185
+Extract data finished (end:Fri Dec  9 15:06:01 2016)
+Extracting data for 1995-06-08 18:00:00 (start:Fri Dec  9 15:06:01 2016)
+(902, 2602) 7.21688412837
+Writing timestep 186
+Extract data finished (end:Fri Dec  9 15:06:18 2016)
+Extracting data for 1995-06-08 19:00:00 (start:Fri Dec  9 15:06:18 2016)
+(902, 2602) 7.2115171884
+Writing timestep 187
+Extract data finished (end:Fri Dec  9 15:06:33 2016)
+Extracting data for 1995-06-08 20:00:00 (start:Fri Dec  9 15:06:33 2016)
+(902, 2602) 7.20184565285
+Writing timestep 188
+Extract data finished (end:Fri Dec  9 15:06:50 2016)
+Extracting data for 1995-06-08 21:00:00 (start:Fri Dec  9 15:06:50 2016)
+(902, 2602) 7.18837802695
+Writing timestep 189
+Extract data finished (end:Fri Dec  9 15:07:05 2016)
+Extracting data for 1995-06-08 22:00:00 (start:Fri Dec  9 15:07:05 2016)
+(902, 2602) 7.17301788532
+Writing timestep 190
+Extract data finished (end:Fri Dec  9 15:07:21 2016)
+Extracting data for 1995-06-08 23:00:00 (start:Fri Dec  9 15:07:21 2016)
+(902, 2602) 7.15726779942
+Writing timestep 191
+Extract data finished (end:Fri Dec  9 15:07:37 2016)
+Extracting data for 1995-06-09 00:00:00 (start:Fri Dec  9 15:07:37 2016)
+(902, 2602) 7.14189371474
+Writing timestep 192
+Extract data finished (end:Fri Dec  9 15:07:53 2016)
+Extracting data for 1995-06-09 01:00:00 (start:Fri Dec  9 15:07:53 2016)
+(902, 2602) 7.12762309551
+Writing timestep 193
+Extract data finished (end:Fri Dec  9 15:08:10 2016)
+Extracting data for 1995-06-09 02:00:00 (start:Fri Dec  9 15:08:10 2016)
+(902, 2602) 7.11479748847
+Writing timestep 194
+Extract data finished (end:Fri Dec  9 15:08:26 2016)
+Extracting data for 1995-06-09 03:00:00 (start:Fri Dec  9 15:08:26 2016)
+(902, 2602) 7.10402637623
+Writing timestep 195
+Extract data finished (end:Fri Dec  9 15:08:42 2016)
+Extracting data for 1995-06-09 04:00:00 (start:Fri Dec  9 15:08:42 2016)
+(902, 2602) 7.09674607314
+Writing timestep 196
+Extract data finished (end:Fri Dec  9 15:08:57 2016)
+Extracting data for 1995-06-09 05:00:00 (start:Fri Dec  9 15:08:57 2016)
+(902, 2602) 7.0940270224
+Writing timestep 197
+Extract data finished (end:Fri Dec  9 15:09:13 2016)
+Extracting data for 1995-06-09 06:00:00 (start:Fri Dec  9 15:09:13 2016)
+(902, 2602) 7.09488930792
+Writing timestep 198
+Extract data finished (end:Fri Dec  9 15:09:29 2016)
+Extracting data for 1995-06-09 07:00:00 (start:Fri Dec  9 15:09:29 2016)
+(902, 2602) 7.0987908274
+Writing timestep 199
+Extract data finished (end:Fri Dec  9 15:09:45 2016)
+Extracting data for 1995-06-09 08:00:00 (start:Fri Dec  9 15:09:45 2016)
+(902, 2602) 7.10591004906
+Writing timestep 200
+Extract data finished (end:Fri Dec  9 15:10:01 2016)
+Extracting data for 1995-06-09 09:00:00 (start:Fri Dec  9 15:10:01 2016)
+(902, 2602) 7.11621134768
+Writing timestep 201
+Extract data finished (end:Fri Dec  9 15:10:17 2016)
+Extracting data for 1995-06-09 10:00:00 (start:Fri Dec  9 15:10:17 2016)
+(902, 2602) 7.12892958195
+Writing timestep 202
+Extract data finished (end:Fri Dec  9 15:10:33 2016)
+Extracting data for 1995-06-09 11:00:00 (start:Fri Dec  9 15:10:33 2016)
+(902, 2602) 7.14282294213
+Writing timestep 203
+Extract data finished (end:Fri Dec  9 15:10:49 2016)
+Extracting data for 1995-06-09 12:00:00 (start:Fri Dec  9 15:10:49 2016)
+(902, 2602) 7.15639679271
+Writing timestep 204
+Extract data finished (end:Fri Dec  9 15:11:05 2016)
+Extracting data for 1995-06-09 13:00:00 (start:Fri Dec  9 15:11:05 2016)
+(902, 2602) 7.16929489112
+Writing timestep 205
+Extract data finished (end:Fri Dec  9 15:11:21 2016)
+Extracting data for 1995-06-09 14:00:00 (start:Fri Dec  9 15:11:21 2016)
+(902, 2602) 7.18459381122
+Writing timestep 206
+Extract data finished (end:Fri Dec  9 15:11:37 2016)
+Extracting data for 1995-06-09 15:00:00 (start:Fri Dec  9 15:11:37 2016)
+(902, 2602) 7.20166061665
+Writing timestep 207
+Extract data finished (end:Fri Dec  9 15:11:53 2016)
+Extracting data for 1995-06-09 16:00:00 (start:Fri Dec  9 15:11:53 2016)
+(902, 2602) 7.21713582225
+Writing timestep 208
+Extract data finished (end:Fri Dec  9 15:12:09 2016)
+Extracting data for 1995-06-09 17:00:00 (start:Fri Dec  9 15:12:09 2016)
+(902, 2602) 7.22822425506
+Writing timestep 209
+Extract data finished (end:Fri Dec  9 15:12:25 2016)
+Extracting data for 1995-06-09 18:00:00 (start:Fri Dec  9 15:12:25 2016)
+(902, 2602) 7.23412267231
+Writing timestep 210
+Extract data finished (end:Fri Dec  9 15:12:41 2016)
+Extracting data for 1995-06-09 19:00:00 (start:Fri Dec  9 15:12:41 2016)
+(902, 2602) 7.23606918995
+Writing timestep 211
+Extract data finished (end:Fri Dec  9 15:12:57 2016)
+Extracting data for 1995-06-09 20:00:00 (start:Fri Dec  9 15:12:57 2016)
+(902, 2602) 7.23243403832
+Writing timestep 212
+Extract data finished (end:Fri Dec  9 15:13:13 2016)
+Extracting data for 1995-06-09 21:00:00 (start:Fri Dec  9 15:13:13 2016)
+(902, 2602) 7.22462472791
+Writing timestep 213
+Extract data finished (end:Fri Dec  9 15:13:29 2016)
+Extracting data for 1995-06-09 22:00:00 (start:Fri Dec  9 15:13:29 2016)
+(902, 2602) 7.21401995863
+Writing timestep 214
+Extract data finished (end:Fri Dec  9 15:13:45 2016)
+Extracting data for 1995-06-09 23:00:00 (start:Fri Dec  9 15:13:45 2016)
+(902, 2602) 7.20066442402
+Writing timestep 215
+Extract data finished (end:Fri Dec  9 15:14:01 2016)
+Extracting data for 1995-06-10 00:00:00 (start:Fri Dec  9 15:14:01 2016)
+(902, 2602) 7.18456326034
+Writing timestep 216
+Extract data finished (end:Fri Dec  9 15:14:16 2016)
+Extracting data for 1995-06-10 01:00:00 (start:Fri Dec  9 15:14:16 2016)
+(902, 2602) 7.16752624562
+Writing timestep 217
+Extract data finished (end:Fri Dec  9 15:14:33 2016)
+Extracting data for 1995-06-10 02:00:00 (start:Fri Dec  9 15:14:33 2016)
+(902, 2602) 7.15141638291
+Writing timestep 218
+Extract data finished (end:Fri Dec  9 15:14:49 2016)
+Extracting data for 1995-06-10 03:00:00 (start:Fri Dec  9 15:14:49 2016)
+(902, 2602) 7.1368744239
+Writing timestep 219
+Extract data finished (end:Fri Dec  9 15:15:05 2016)
+Extracting data for 1995-06-10 04:00:00 (start:Fri Dec  9 15:15:05 2016)
+(902, 2602) 7.12451205048
+Writing timestep 220
+Extract data finished (end:Fri Dec  9 15:15:21 2016)
+Extracting data for 1995-06-10 05:00:00 (start:Fri Dec  9 15:15:21 2016)
+(902, 2602) 7.11629449564
+Writing timestep 221
+Extract data finished (end:Fri Dec  9 15:15:37 2016)
+Extracting data for 1995-06-10 06:00:00 (start:Fri Dec  9 15:15:37 2016)
+(902, 2602) 7.11193410649
+Writing timestep 222
+Extract data finished (end:Fri Dec  9 15:15:53 2016)
+Extracting data for 1995-06-10 07:00:00 (start:Fri Dec  9 15:15:53 2016)
+(902, 2602) 7.1113287889
+Writing timestep 223
+Extract data finished (end:Fri Dec  9 15:16:09 2016)
+Extracting data for 1995-06-10 08:00:00 (start:Fri Dec  9 15:16:09 2016)
+(902, 2602) 7.11385209361
+Writing timestep 224
+Extract data finished (end:Fri Dec  9 15:16:25 2016)
+Extracting data for 1995-06-10 09:00:00 (start:Fri Dec  9 15:16:25 2016)
+(902, 2602) 7.11882641974
+Writing timestep 225
+Extract data finished (end:Fri Dec  9 15:16:41 2016)
+Extracting data for 1995-06-10 10:00:00 (start:Fri Dec  9 15:16:41 2016)
+(902, 2602) 7.12570271572
+Writing timestep 226
+Extract data finished (end:Fri Dec  9 15:16:57 2016)
+Extracting data for 1995-06-10 11:00:00 (start:Fri Dec  9 15:16:57 2016)
+(902, 2602) 7.1337597647
+Writing timestep 227
+Extract data finished (end:Fri Dec  9 15:17:13 2016)
+Extracting data for 1995-06-10 12:00:00 (start:Fri Dec  9 15:17:13 2016)
+(902, 2602) 7.14249192017
+Writing timestep 228
+Extract data finished (end:Fri Dec  9 15:17:29 2016)
+Extracting data for 1995-06-10 13:00:00 (start:Fri Dec  9 15:17:29 2016)
+(902, 2602) 7.15231392034
+Writing timestep 229
+Extract data finished (end:Fri Dec  9 15:17:45 2016)
+Extracting data for 1995-06-10 14:00:00 (start:Fri Dec  9 15:17:45 2016)
+(902, 2602) 7.16364642579
+Writing timestep 230
+Extract data finished (end:Fri Dec  9 15:18:00 2016)
+Extracting data for 1995-06-10 15:00:00 (start:Fri Dec  9 15:18:00 2016)
+(902, 2602) 7.17548521671
+Writing timestep 231
+Extract data finished (end:Fri Dec  9 15:18:16 2016)
+Extracting data for 1995-06-10 16:00:00 (start:Fri Dec  9 15:18:16 2016)
+(902, 2602) 7.18619850272
+Writing timestep 232
+Extract data finished (end:Fri Dec  9 15:18:32 2016)
+Extracting data for 1995-06-10 17:00:00 (start:Fri Dec  9 15:18:32 2016)
+(902, 2602) 7.19534409395
+Writing timestep 233
+Extract data finished (end:Fri Dec  9 15:18:47 2016)
+Extracting data for 1995-06-10 18:00:00 (start:Fri Dec  9 15:18:47 2016)
+(902, 2602) 7.20271516559
+Writing timestep 234
+Extract data finished (end:Fri Dec  9 15:19:03 2016)
+Extracting data for 1995-06-10 19:00:00 (start:Fri Dec  9 15:19:03 2016)
+(902, 2602) 7.2069945735
+Writing timestep 235
+Extract data finished (end:Fri Dec  9 15:19:19 2016)
+Extracting data for 1995-06-10 20:00:00 (start:Fri Dec  9 15:19:19 2016)
+(902, 2602) 7.20733881625
+Writing timestep 236
+Extract data finished (end:Fri Dec  9 15:19:35 2016)
+Extracting data for 1995-06-10 21:00:00 (start:Fri Dec  9 15:19:35 2016)
+(902, 2602) 7.20385032231
+Writing timestep 237
+Extract data finished (end:Fri Dec  9 15:19:51 2016)
+Extracting data for 1995-06-10 22:00:00 (start:Fri Dec  9 15:19:51 2016)
+(902, 2602) 7.19799596267
+Writing timestep 238
+Extract data finished (end:Fri Dec  9 15:20:06 2016)
+Extracting data for 1995-06-10 23:00:00 (start:Fri Dec  9 15:20:06 2016)
+(902, 2602) 7.19116504972
+Writing timestep 239
+Extract data finished (end:Fri Dec  9 15:20:22 2016)
+Extracting data for 1995-06-11 00:00:00 (start:Fri Dec  9 15:20:22 2016)
+(902, 2602) 7.18413536471
+Writing timestep 240
+Extract data finished (end:Fri Dec  9 15:20:38 2016)
+Extracting data for 1995-06-11 01:00:00 (start:Fri Dec  9 15:20:38 2016)
+(902, 2602) 7.17697336985
+Writing timestep 241
+Extract data finished (end:Fri Dec  9 15:20:55 2016)
+Extracting data for 1995-06-11 02:00:00 (start:Fri Dec  9 15:20:55 2016)
+(902, 2602) 7.16995002173
+Writing timestep 242
+Extract data finished (end:Fri Dec  9 15:21:11 2016)
+Extracting data for 1995-06-11 03:00:00 (start:Fri Dec  9 15:21:11 2016)
+(902, 2602) 7.16394954298
+Writing timestep 243
+Extract data finished (end:Fri Dec  9 15:21:27 2016)
+Extracting data for 1995-06-11 04:00:00 (start:Fri Dec  9 15:21:27 2016)
+(902, 2602) 7.16010200708
+Writing timestep 244
+Extract data finished (end:Fri Dec  9 15:21:43 2016)
+Extracting data for 1995-06-11 05:00:00 (start:Fri Dec  9 15:21:43 2016)
+(902, 2602) 7.15908222901
+Writing timestep 245
+Extract data finished (end:Fri Dec  9 15:21:58 2016)
+Extracting data for 1995-06-11 06:00:00 (start:Fri Dec  9 15:21:58 2016)
+(902, 2602) 7.15992681535
+Writing timestep 246
+Extract data finished (end:Fri Dec  9 15:22:14 2016)
+Extracting data for 1995-06-11 07:00:00 (start:Fri Dec  9 15:22:14 2016)
+(902, 2602) 7.16212318461
+Writing timestep 247
+Extract data finished (end:Fri Dec  9 15:22:29 2016)
+Extracting data for 1995-06-11 08:00:00 (start:Fri Dec  9 15:22:29 2016)
+(902, 2602) 7.16722106493
+Writing timestep 248
+Extract data finished (end:Fri Dec  9 15:22:45 2016)
+Extracting data for 1995-06-11 09:00:00 (start:Fri Dec  9 15:22:45 2016)
+(902, 2602) 7.1755652374
+Writing timestep 249
+Extract data finished (end:Fri Dec  9 15:23:00 2016)
+Extracting data for 1995-06-11 10:00:00 (start:Fri Dec  9 15:23:00 2016)
+(902, 2602) 7.18698404182
+Writing timestep 250
+Extract data finished (end:Fri Dec  9 15:23:16 2016)
+Extracting data for 1995-06-11 11:00:00 (start:Fri Dec  9 15:23:16 2016)
+(902, 2602) 7.20050705277
+Writing timestep 251
+Extract data finished (end:Fri Dec  9 15:23:31 2016)
+Extracting data for 1995-06-11 12:00:00 (start:Fri Dec  9 15:23:31 2016)
+(902, 2602) 7.21457871347
+Writing timestep 252
+Extract data finished (end:Fri Dec  9 15:23:47 2016)
+Extracting data for 1995-06-11 13:00:00 (start:Fri Dec  9 15:23:47 2016)
+(902, 2602) 7.22761928639
+Writing timestep 253
+Extract data finished (end:Fri Dec  9 15:24:02 2016)
+Extracting data for 1995-06-11 14:00:00 (start:Fri Dec  9 15:24:02 2016)
+(902, 2602) 7.23942620882
+Writing timestep 254
+Extract data finished (end:Fri Dec  9 15:24:17 2016)
+Extracting data for 1995-06-11 15:00:00 (start:Fri Dec  9 15:24:17 2016)
+(902, 2602) 7.24931740331
+Writing timestep 255
+Extract data finished (end:Fri Dec  9 15:24:33 2016)
+Extracting data for 1995-06-11 16:00:00 (start:Fri Dec  9 15:24:33 2016)
+(902, 2602) 7.25678229371
+Writing timestep 256
+Extract data finished (end:Fri Dec  9 15:24:48 2016)
+Extracting data for 1995-06-11 17:00:00 (start:Fri Dec  9 15:24:48 2016)
+(902, 2602) 7.26104036085
+Writing timestep 257
+Extract data finished (end:Fri Dec  9 15:25:04 2016)
+Extracting data for 1995-06-11 18:00:00 (start:Fri Dec  9 15:25:04 2016)
+(902, 2602) 7.26139958924
+Writing timestep 258
+Extract data finished (end:Fri Dec  9 15:25:19 2016)
+Extracting data for 1995-06-11 19:00:00 (start:Fri Dec  9 15:25:19 2016)
+(902, 2602) 7.25776099355
+Writing timestep 259
+Extract data finished (end:Fri Dec  9 15:25:35 2016)
+Extracting data for 1995-06-11 20:00:00 (start:Fri Dec  9 15:25:35 2016)
+(902, 2602) 7.25035600324
+Writing timestep 260
+Extract data finished (end:Fri Dec  9 15:25:50 2016)
+Extracting data for 1995-06-11 21:00:00 (start:Fri Dec  9 15:25:50 2016)
+(902, 2602) 7.23955120193
+Writing timestep 261
+Extract data finished (end:Fri Dec  9 15:26:05 2016)
+Extracting data for 1995-06-11 22:00:00 (start:Fri Dec  9 15:26:05 2016)
+(902, 2602) 7.2271985023
+Writing timestep 262
+Extract data finished (end:Fri Dec  9 15:26:20 2016)
+Extracting data for 1995-06-11 23:00:00 (start:Fri Dec  9 15:26:20 2016)
+(902, 2602) 7.21501728714
+Writing timestep 263
+Extract data finished (end:Fri Dec  9 15:26:36 2016)
+Extracting data for 1995-06-12 00:00:00 (start:Fri Dec  9 15:26:36 2016)
+(902, 2602) 7.20362735227
+Writing timestep 264
+Extract data finished (end:Fri Dec  9 15:26:51 2016)
+Extracting data for 1995-06-12 01:00:00 (start:Fri Dec  9 15:26:51 2016)
+(902, 2602) 7.19286033995
+Writing timestep 265
+Extract data finished (end:Fri Dec  9 15:27:08 2016)
+Extracting data for 1995-06-12 02:00:00 (start:Fri Dec  9 15:27:08 2016)
+(902, 2602) 7.18224501685
+Writing timestep 266
+Extract data finished (end:Fri Dec  9 15:27:24 2016)
+Extracting data for 1995-06-12 03:00:00 (start:Fri Dec  9 15:27:24 2016)
+(902, 2602) 7.17281299937
+Writing timestep 267
+Extract data finished (end:Fri Dec  9 15:27:39 2016)
+Extracting data for 1995-06-12 04:00:00 (start:Fri Dec  9 15:27:39 2016)
+(902, 2602) 7.16624505934
+Writing timestep 268
+Extract data finished (end:Fri Dec  9 15:27:54 2016)
+Extracting data for 1995-06-12 05:00:00 (start:Fri Dec  9 15:27:54 2016)
+(902, 2602) 7.16418766667
+Writing timestep 269
+Extract data finished (end:Fri Dec  9 15:28:09 2016)
+Extracting data for 1995-06-12 06:00:00 (start:Fri Dec  9 15:28:09 2016)
+(902, 2602) 7.16657411132
+Writing timestep 270
+Extract data finished (end:Fri Dec  9 15:28:24 2016)
+Extracting data for 1995-06-12 07:00:00 (start:Fri Dec  9 15:28:24 2016)
+(902, 2602) 7.17348858307
+Writing timestep 271
+Extract data finished (end:Fri Dec  9 15:28:40 2016)
+Extracting data for 1995-06-12 08:00:00 (start:Fri Dec  9 15:28:40 2016)
+(902, 2602) 7.184907672
+Writing timestep 272
+Extract data finished (end:Fri Dec  9 15:28:55 2016)
+Extracting data for 1995-06-12 09:00:00 (start:Fri Dec  9 15:28:55 2016)
+(902, 2602) 7.19987240853
+Writing timestep 273
+Extract data finished (end:Fri Dec  9 15:29:11 2016)
+Extracting data for 1995-06-12 10:00:00 (start:Fri Dec  9 15:29:11 2016)
+(902, 2602) 7.21713051004
+Writing timestep 274
+Extract data finished (end:Fri Dec  9 15:29:26 2016)
+Extracting data for 1995-06-12 11:00:00 (start:Fri Dec  9 15:29:26 2016)
+(902, 2602) 7.23558951546
+Writing timestep 275
+Extract data finished (end:Fri Dec  9 15:29:42 2016)
+Extracting data for 1995-06-12 12:00:00 (start:Fri Dec  9 15:29:42 2016)
+(902, 2602) 7.25432051039
+Writing timestep 276
+Extract data finished (end:Fri Dec  9 15:29:57 2016)
+Extracting data for 1995-06-12 13:00:00 (start:Fri Dec  9 15:29:57 2016)
+(902, 2602) 7.27308304699
+Writing timestep 277
+Extract data finished (end:Fri Dec  9 15:30:13 2016)
+Extracting data for 1995-06-12 14:00:00 (start:Fri Dec  9 15:30:13 2016)
+(902, 2602) 7.29131913964
+Writing timestep 278
+Extract data finished (end:Fri Dec  9 15:30:28 2016)
+Extracting data for 1995-06-12 15:00:00 (start:Fri Dec  9 15:30:28 2016)
+(902, 2602) 7.30868324827
+Writing timestep 279
+Extract data finished (end:Fri Dec  9 15:30:43 2016)
+Extracting data for 1995-06-12 16:00:00 (start:Fri Dec  9 15:30:43 2016)
+(902, 2602) 7.32469308886
+Writing timestep 280
+Extract data finished (end:Fri Dec  9 15:30:58 2016)
+Extracting data for 1995-06-12 17:00:00 (start:Fri Dec  9 15:30:58 2016)
+(902, 2602) 7.33784150987
+Writing timestep 281
+Extract data finished (end:Fri Dec  9 15:31:14 2016)
+Extracting data for 1995-06-12 18:00:00 (start:Fri Dec  9 15:31:14 2016)
+(902, 2602) 7.34568960296
+Writing timestep 282
+Extract data finished (end:Fri Dec  9 15:31:29 2016)
+Extracting data for 1995-06-12 19:00:00 (start:Fri Dec  9 15:31:29 2016)
+(902, 2602) 7.34758065946
+Writing timestep 283
+Extract data finished (end:Fri Dec  9 15:31:44 2016)
+Extracting data for 1995-06-12 20:00:00 (start:Fri Dec  9 15:31:44 2016)
+(902, 2602) 7.34388047732
+Writing timestep 284
+Extract data finished (end:Fri Dec  9 15:32:00 2016)
+Extracting data for 1995-06-12 21:00:00 (start:Fri Dec  9 15:32:00 2016)
+(902, 2602) 7.33591163752
+Writing timestep 285
+Extract data finished (end:Fri Dec  9 15:32:15 2016)
+Extracting data for 1995-06-12 22:00:00 (start:Fri Dec  9 15:32:15 2016)
+(902, 2602) 7.32600333494
+Writing timestep 286
+Extract data finished (end:Fri Dec  9 15:32:30 2016)
+Extracting data for 1995-06-12 23:00:00 (start:Fri Dec  9 15:32:30 2016)
+(902, 2602) 7.31533334077
+Writing timestep 287
+Extract data finished (end:Fri Dec  9 15:32:45 2016)
+Extracting data for 1995-06-13 00:00:00 (start:Fri Dec  9 15:32:45 2016)
+(902, 2602) 7.30465703469
+Writing timestep 288
+Extract data finished (end:Fri Dec  9 15:33:00 2016)
+Extracting data for 1995-06-13 01:00:00 (start:Fri Dec  9 15:33:00 2016)
+(902, 2602) 7.29449374354
+Writing timestep 289
+Extract data finished (end:Fri Dec  9 15:33:17 2016)
+Extracting data for 1995-06-13 02:00:00 (start:Fri Dec  9 15:33:17 2016)
+(902, 2602) 7.28492790245
+Writing timestep 290
+Extract data finished (end:Fri Dec  9 15:33:33 2016)
+Extracting data for 1995-06-13 03:00:00 (start:Fri Dec  9 15:33:33 2016)
+(902, 2602) 7.2760118638
+Writing timestep 291
+Extract data finished (end:Fri Dec  9 15:33:48 2016)
+Extracting data for 1995-06-13 04:00:00 (start:Fri Dec  9 15:33:48 2016)
+(902, 2602) 7.26962416374
+Writing timestep 292
+Extract data finished (end:Fri Dec  9 15:34:03 2016)
+Extracting data for 1995-06-13 05:00:00 (start:Fri Dec  9 15:34:03 2016)
+(902, 2602) 7.26773815129
+Writing timestep 293
+Extract data finished (end:Fri Dec  9 15:34:19 2016)
+Extracting data for 1995-06-13 06:00:00 (start:Fri Dec  9 15:34:19 2016)
+(902, 2602) 7.27031604131
+Writing timestep 294
+Extract data finished (end:Fri Dec  9 15:34:34 2016)
+Extracting data for 1995-06-13 07:00:00 (start:Fri Dec  9 15:34:34 2016)
+(902, 2602) 7.27728641879
+Writing timestep 295
+Extract data finished (end:Fri Dec  9 15:34:49 2016)
+Extracting data for 1995-06-13 08:00:00 (start:Fri Dec  9 15:34:49 2016)
+(902, 2602) 7.28867660835
+Writing timestep 296
+Extract data finished (end:Fri Dec  9 15:35:04 2016)
+Extracting data for 1995-06-13 09:00:00 (start:Fri Dec  9 15:35:04 2016)
+(902, 2602) 7.30345825202
+Writing timestep 297
+Extract data finished (end:Fri Dec  9 15:35:20 2016)
+Extracting data for 1995-06-13 10:00:00 (start:Fri Dec  9 15:35:20 2016)
+(902, 2602) 7.32038340217
+Writing timestep 298
+Extract data finished (end:Fri Dec  9 15:35:35 2016)
+Extracting data for 1995-06-13 11:00:00 (start:Fri Dec  9 15:35:35 2016)
+(902, 2602) 7.33810410645
+Writing timestep 299
+Extract data finished (end:Fri Dec  9 15:35:51 2016)
+Extracting data for 1995-06-13 12:00:00 (start:Fri Dec  9 15:35:51 2016)
+(902, 2602) 7.3567473303
+Writing timestep 300
+Extract data finished (end:Fri Dec  9 15:36:06 2016)
+Extracting data for 1995-06-13 13:00:00 (start:Fri Dec  9 15:36:06 2016)
+(902, 2602) 7.37641073188
+Writing timestep 301
+Extract data finished (end:Fri Dec  9 15:36:22 2016)
+Extracting data for 1995-06-13 14:00:00 (start:Fri Dec  9 15:36:22 2016)
+(902, 2602) 7.39689955125
+Writing timestep 302
+Extract data finished (end:Fri Dec  9 15:36:37 2016)
+Extracting data for 1995-06-13 15:00:00 (start:Fri Dec  9 15:36:37 2016)
+(902, 2602) 7.41516255416
+Writing timestep 303
+Extract data finished (end:Fri Dec  9 15:36:53 2016)
+Extracting data for 1995-06-13 16:00:00 (start:Fri Dec  9 15:36:53 2016)
+(902, 2602) 7.43060692993
+Writing timestep 304
+Extract data finished (end:Fri Dec  9 15:37:08 2016)
+Extracting data for 1995-06-13 17:00:00 (start:Fri Dec  9 15:37:08 2016)
+(902, 2602) 7.44199042778
+Writing timestep 305
+Extract data finished (end:Fri Dec  9 15:37:23 2016)
+Extracting data for 1995-06-13 18:00:00 (start:Fri Dec  9 15:37:23 2016)
+(902, 2602) 7.44787014501
+Writing timestep 306
+Extract data finished (end:Fri Dec  9 15:37:39 2016)
+Extracting data for 1995-06-13 19:00:00 (start:Fri Dec  9 15:37:39 2016)
+(902, 2602) 7.44844262208
+Writing timestep 307
+Extract data finished (end:Fri Dec  9 15:37:54 2016)
+Extracting data for 1995-06-13 20:00:00 (start:Fri Dec  9 15:37:54 2016)
+(902, 2602) 7.4446735459
+Writing timestep 308
+Extract data finished (end:Fri Dec  9 15:38:10 2016)
+Extracting data for 1995-06-13 21:00:00 (start:Fri Dec  9 15:38:10 2016)
+(902, 2602) 7.437494965
+Writing timestep 309
+Extract data finished (end:Fri Dec  9 15:38:26 2016)
+Extracting data for 1995-06-13 22:00:00 (start:Fri Dec  9 15:38:26 2016)
+(902, 2602) 7.42840286432
+Writing timestep 310
+Extract data finished (end:Fri Dec  9 15:38:41 2016)
+Extracting data for 1995-06-13 23:00:00 (start:Fri Dec  9 15:38:41 2016)
+(902, 2602) 7.41806005751
+Writing timestep 311
+Extract data finished (end:Fri Dec  9 15:38:56 2016)
+Extracting data for 1995-06-14 00:00:00 (start:Fri Dec  9 15:38:56 2016)
+(902, 2602) 7.40710847693
+Writing timestep 312
+Extract data finished (end:Fri Dec  9 15:39:11 2016)
+Extracting data for 1995-06-14 01:00:00 (start:Fri Dec  9 15:39:11 2016)
+(902, 2602) 7.39599805678
+Writing timestep 313
+Extract data finished (end:Fri Dec  9 15:39:29 2016)
+Extracting data for 1995-06-14 02:00:00 (start:Fri Dec  9 15:39:29 2016)
+(902, 2602) 7.38436649016
+Writing timestep 314
+Extract data finished (end:Fri Dec  9 15:39:44 2016)
+Extracting data for 1995-06-14 03:00:00 (start:Fri Dec  9 15:39:44 2016)
+(902, 2602) 7.37297736245
+Writing timestep 315
+Extract data finished (end:Fri Dec  9 15:40:00 2016)
+Extracting data for 1995-06-14 04:00:00 (start:Fri Dec  9 15:40:00 2016)
+(902, 2602) 7.36428694031
+Writing timestep 316
+Extract data finished (end:Fri Dec  9 15:40:15 2016)
+Extracting data for 1995-06-14 05:00:00 (start:Fri Dec  9 15:40:15 2016)
+(902, 2602) 7.36063511704
+Writing timestep 317
+Extract data finished (end:Fri Dec  9 15:40:31 2016)
+Extracting data for 1995-06-14 06:00:00 (start:Fri Dec  9 15:40:31 2016)
+(902, 2602) 7.36159529235
+Writing timestep 318
+Extract data finished (end:Fri Dec  9 15:40:46 2016)
+Extracting data for 1995-06-14 07:00:00 (start:Fri Dec  9 15:40:46 2016)
+(902, 2602) 7.36719797616
+Writing timestep 319
+Extract data finished (end:Fri Dec  9 15:41:02 2016)
+Extracting data for 1995-06-14 08:00:00 (start:Fri Dec  9 15:41:02 2016)
+(902, 2602) 7.37735365775
+Writing timestep 320
+Extract data finished (end:Fri Dec  9 15:41:17 2016)
+Extracting data for 1995-06-14 09:00:00 (start:Fri Dec  9 15:41:17 2016)
+(902, 2602) 7.39180181778
+Writing timestep 321
+Extract data finished (end:Fri Dec  9 15:41:32 2016)
+Extracting data for 1995-06-14 10:00:00 (start:Fri Dec  9 15:41:32 2016)
+(902, 2602) 7.4095503636
+Writing timestep 322
+Extract data finished (end:Fri Dec  9 15:41:48 2016)
+Extracting data for 1995-06-14 11:00:00 (start:Fri Dec  9 15:41:48 2016)
+(902, 2602) 7.4283599364
+Writing timestep 323
+Extract data finished (end:Fri Dec  9 15:42:03 2016)
+Extracting data for 1995-06-14 12:00:00 (start:Fri Dec  9 15:42:03 2016)
+(902, 2602) 7.44656965185
+Writing timestep 324
+Extract data finished (end:Fri Dec  9 15:42:19 2016)
+Extracting data for 1995-06-14 13:00:00 (start:Fri Dec  9 15:42:19 2016)
+(902, 2602) 7.46433227666
+Writing timestep 325
+Extract data finished (end:Fri Dec  9 15:42:35 2016)
+Extracting data for 1995-06-14 14:00:00 (start:Fri Dec  9 15:42:35 2016)
+(902, 2602) 7.48207572368
+Writing timestep 326
+Extract data finished (end:Fri Dec  9 15:42:50 2016)
+Extracting data for 1995-06-14 15:00:00 (start:Fri Dec  9 15:42:50 2016)
+(902, 2602) 7.4982830199
+Writing timestep 327
+Extract data finished (end:Fri Dec  9 15:43:05 2016)
+Extracting data for 1995-06-14 16:00:00 (start:Fri Dec  9 15:43:05 2016)
+(902, 2602) 7.51149699239
+Writing timestep 328
+Extract data finished (end:Fri Dec  9 15:43:21 2016)
+Extracting data for 1995-06-14 17:00:00 (start:Fri Dec  9 15:43:21 2016)
+(902, 2602) 7.52168350593
+Writing timestep 329
+Extract data finished (end:Fri Dec  9 15:43:37 2016)
+Extracting data for 1995-06-14 18:00:00 (start:Fri Dec  9 15:43:37 2016)
+(902, 2602) 7.52817938438
+Writing timestep 330
+Extract data finished (end:Fri Dec  9 15:43:52 2016)
+Extracting data for 1995-06-14 19:00:00 (start:Fri Dec  9 15:43:52 2016)
+(902, 2602) 7.53155224538
+Writing timestep 331
+Extract data finished (end:Fri Dec  9 15:44:07 2016)
+Extracting data for 1995-06-14 20:00:00 (start:Fri Dec  9 15:44:07 2016)
+(902, 2602) 7.53178248879
+Writing timestep 332
+Extract data finished (end:Fri Dec  9 15:44:23 2016)
+Extracting data for 1995-06-14 21:00:00 (start:Fri Dec  9 15:44:23 2016)
+(902, 2602) 7.52822277895
+Writing timestep 333
+Extract data finished (end:Fri Dec  9 15:44:39 2016)
+Extracting data for 1995-06-14 22:00:00 (start:Fri Dec  9 15:44:39 2016)
+(902, 2602) 7.52217599194
+Writing timestep 334
+Extract data finished (end:Fri Dec  9 15:44:54 2016)
+Extracting data for 1995-06-14 23:00:00 (start:Fri Dec  9 15:44:54 2016)
+(902, 2602) 7.51486112995
+Writing timestep 335
+Extract data finished (end:Fri Dec  9 15:45:10 2016)
+Extracting data for 1995-06-15 00:00:00 (start:Fri Dec  9 15:45:10 2016)
+(902, 2602) 7.50483571297
+Writing timestep 336
+Extract data finished (end:Fri Dec  9 15:45:25 2016)
+Extracting data for 1995-06-15 01:00:00 (start:Fri Dec  9 15:45:25 2016)
+(902, 2602) 7.49248203931
+Writing timestep 337
+Extract data finished (end:Fri Dec  9 15:45:42 2016)
+Extracting data for 1995-06-15 02:00:00 (start:Fri Dec  9 15:45:42 2016)
+(902, 2602) 7.47970102606
+Writing timestep 338
+Extract data finished (end:Fri Dec  9 15:45:57 2016)
+Extracting data for 1995-06-15 03:00:00 (start:Fri Dec  9 15:45:57 2016)
+(902, 2602) 7.46729679828
+Writing timestep 339
+Extract data finished (end:Fri Dec  9 15:46:12 2016)
+Extracting data for 1995-06-15 04:00:00 (start:Fri Dec  9 15:46:12 2016)
+(902, 2602) 7.45753114209
+Writing timestep 340
+Extract data finished (end:Fri Dec  9 15:46:28 2016)
+Extracting data for 1995-06-15 05:00:00 (start:Fri Dec  9 15:46:28 2016)
+(902, 2602) 7.45106289091
+Writing timestep 341
+Extract data finished (end:Fri Dec  9 15:46:43 2016)
+Extracting data for 1995-06-15 06:00:00 (start:Fri Dec  9 15:46:43 2016)
+(902, 2602) 7.44872354231
+Writing timestep 342
+Extract data finished (end:Fri Dec  9 15:46:59 2016)
+Extracting data for 1995-06-15 07:00:00 (start:Fri Dec  9 15:46:59 2016)
+(902, 2602) 7.45109149959
+Writing timestep 343
+Extract data finished (end:Fri Dec  9 15:47:14 2016)
+Extracting data for 1995-06-15 08:00:00 (start:Fri Dec  9 15:47:14 2016)
+(902, 2602) 7.45821500504
+Writing timestep 344
+Extract data finished (end:Fri Dec  9 15:47:29 2016)
+Extracting data for 1995-06-15 09:00:00 (start:Fri Dec  9 15:47:29 2016)
+(902, 2602) 7.46935252035
+Writing timestep 345
+Extract data finished (end:Fri Dec  9 15:47:44 2016)
+Extracting data for 1995-06-15 10:00:00 (start:Fri Dec  9 15:47:44 2016)
+(902, 2602) 7.48319832053
+Writing timestep 346
+Extract data finished (end:Fri Dec  9 15:47:59 2016)
+Extracting data for 1995-06-15 11:00:00 (start:Fri Dec  9 15:47:59 2016)
+(902, 2602) 7.49803462221
+Writing timestep 347
+Extract data finished (end:Fri Dec  9 15:48:15 2016)
+Extracting data for 1995-06-15 12:00:00 (start:Fri Dec  9 15:48:15 2016)
+(902, 2602) 7.51148861901
+Writing timestep 348
+Extract data finished (end:Fri Dec  9 15:48:30 2016)
+Extracting data for 1995-06-15 13:00:00 (start:Fri Dec  9 15:48:30 2016)
+(902, 2602) 7.5230736237
+Writing timestep 349
+Extract data finished (end:Fri Dec  9 15:48:45 2016)
+Extracting data for 1995-06-15 14:00:00 (start:Fri Dec  9 15:48:45 2016)
+(902, 2602) 7.53380118119
+Writing timestep 350
+Extract data finished (end:Fri Dec  9 15:49:01 2016)
+Extracting data for 1995-06-15 15:00:00 (start:Fri Dec  9 15:49:01 2016)
+(902, 2602) 7.54226002203
+Writing timestep 351
+Extract data finished (end:Fri Dec  9 15:49:16 2016)
+Extracting data for 1995-06-15 16:00:00 (start:Fri Dec  9 15:49:16 2016)
+(902, 2602) 7.54741036123
+Writing timestep 352
+Extract data finished (end:Fri Dec  9 15:49:31 2016)
+Extracting data for 1995-06-15 17:00:00 (start:Fri Dec  9 15:49:31 2016)
+(902, 2602) 7.54871334229
+Writing timestep 353
+Extract data finished (end:Fri Dec  9 15:49:46 2016)
+Extracting data for 1995-06-15 18:00:00 (start:Fri Dec  9 15:49:46 2016)
+(902, 2602) 7.54652664901
+Writing timestep 354
+Extract data finished (end:Fri Dec  9 15:50:02 2016)
+Extracting data for 1995-06-15 19:00:00 (start:Fri Dec  9 15:50:02 2016)
+(902, 2602) 7.54279693311
+Writing timestep 355
+Extract data finished (end:Fri Dec  9 15:50:17 2016)
+Extracting data for 1995-06-15 20:00:00 (start:Fri Dec  9 15:50:17 2016)
+(902, 2602) 7.53835135718
+Writing timestep 356
+Extract data finished (end:Fri Dec  9 15:50:33 2016)
+Extracting data for 1995-06-15 21:00:00 (start:Fri Dec  9 15:50:33 2016)
+(902, 2602) 7.53270297236
+Writing timestep 357
+Extract data finished (end:Fri Dec  9 15:50:49 2016)
+Extracting data for 1995-06-15 22:00:00 (start:Fri Dec  9 15:50:49 2016)
+(902, 2602) 7.52602343663
+Writing timestep 358
+Extract data finished (end:Fri Dec  9 15:51:04 2016)
+Extracting data for 1995-06-15 23:00:00 (start:Fri Dec  9 15:51:04 2016)
+(902, 2602) 7.51907831604
+Writing timestep 359
+Extract data finished (end:Fri Dec  9 15:51:19 2016)
+Extracting data for 1995-06-16 00:00:00 (start:Fri Dec  9 15:51:19 2016)
+(902, 2602) 7.51162568266
+Writing timestep 360
+Extract data finished (end:Fri Dec  9 15:51:35 2016)
+Extracting data for 1995-06-16 01:00:00 (start:Fri Dec  9 15:51:35 2016)
+(902, 2602) 7.50353898417
+Writing timestep 361
+Extract data finished (end:Fri Dec  9 15:51:51 2016)
+Extracting data for 1995-06-16 02:00:00 (start:Fri Dec  9 15:51:51 2016)
+(902, 2602) 7.49528114284
+Writing timestep 362
+Extract data finished (end:Fri Dec  9 15:52:07 2016)
+Extracting data for 1995-06-16 03:00:00 (start:Fri Dec  9 15:52:07 2016)
+(902, 2602) 7.48760954159
+Writing timestep 363
+Extract data finished (end:Fri Dec  9 15:52:23 2016)
+Extracting data for 1995-06-16 04:00:00 (start:Fri Dec  9 15:52:23 2016)
+(902, 2602) 7.48156921776
+Writing timestep 364
+Extract data finished (end:Fri Dec  9 15:52:38 2016)
+Extracting data for 1995-06-16 05:00:00 (start:Fri Dec  9 15:52:38 2016)
+(902, 2602) 7.47802962468
+Writing timestep 365
+Extract data finished (end:Fri Dec  9 15:52:53 2016)
+Extracting data for 1995-06-16 06:00:00 (start:Fri Dec  9 15:52:53 2016)
+(902, 2602) 7.47744691816
+Writing timestep 366
+Extract data finished (end:Fri Dec  9 15:53:09 2016)
+Extracting data for 1995-06-16 07:00:00 (start:Fri Dec  9 15:53:09 2016)
+(902, 2602) 7.48112593511
+Writing timestep 367
+Extract data finished (end:Fri Dec  9 15:53:24 2016)
+Extracting data for 1995-06-16 08:00:00 (start:Fri Dec  9 15:53:24 2016)
+(902, 2602) 7.48977918369
+Writing timestep 368
+Extract data finished (end:Fri Dec  9 15:53:40 2016)
+Extracting data for 1995-06-16 09:00:00 (start:Fri Dec  9 15:53:40 2016)
+(902, 2602) 7.50286247257
+Writing timestep 369
+Extract data finished (end:Fri Dec  9 15:53:55 2016)
+Extracting data for 1995-06-16 10:00:00 (start:Fri Dec  9 15:53:55 2016)
+(902, 2602) 7.51922673414
+Writing timestep 370
+Extract data finished (end:Fri Dec  9 15:54:11 2016)
+Extracting data for 1995-06-16 11:00:00 (start:Fri Dec  9 15:54:11 2016)
+(902, 2602) 7.53746468015
+Writing timestep 371
+Extract data finished (end:Fri Dec  9 15:54:26 2016)
+Extracting data for 1995-06-16 12:00:00 (start:Fri Dec  9 15:54:26 2016)
+(902, 2602) 7.55613604199
+Writing timestep 372
+Extract data finished (end:Fri Dec  9 15:54:42 2016)
+Extracting data for 1995-06-16 13:00:00 (start:Fri Dec  9 15:54:42 2016)
+(902, 2602) 7.574746804
+Writing timestep 373
+Extract data finished (end:Fri Dec  9 15:54:57 2016)
+Extracting data for 1995-06-16 14:00:00 (start:Fri Dec  9 15:54:57 2016)
+(902, 2602) 7.59310551332
+Writing timestep 374
+Extract data finished (end:Fri Dec  9 15:55:13 2016)
+Extracting data for 1995-06-16 15:00:00 (start:Fri Dec  9 15:55:13 2016)
+(902, 2602) 7.61039185329
+Writing timestep 375
+Extract data finished (end:Fri Dec  9 15:55:28 2016)
+Extracting data for 1995-06-16 16:00:00 (start:Fri Dec  9 15:55:28 2016)
+(902, 2602) 7.62521652635
+Writing timestep 376
+Extract data finished (end:Fri Dec  9 15:55:44 2016)
+Extracting data for 1995-06-16 17:00:00 (start:Fri Dec  9 15:55:44 2016)
+(902, 2602) 7.63674090878
+Writing timestep 377
+Extract data finished (end:Fri Dec  9 15:55:59 2016)
+Extracting data for 1995-06-16 18:00:00 (start:Fri Dec  9 15:55:59 2016)
+(902, 2602) 7.64505074488
+Writing timestep 378
+Extract data finished (end:Fri Dec  9 15:56:15 2016)
+Extracting data for 1995-06-16 19:00:00 (start:Fri Dec  9 15:56:15 2016)
+(902, 2602) 7.65096417462
+Writing timestep 379
+Extract data finished (end:Fri Dec  9 15:56:30 2016)
+Extracting data for 1995-06-16 20:00:00 (start:Fri Dec  9 15:56:30 2016)
+(902, 2602) 7.65518273775
+Writing timestep 380
+Extract data finished (end:Fri Dec  9 15:56:46 2016)
+Extracting data for 1995-06-16 21:00:00 (start:Fri Dec  9 15:56:46 2016)
+(902, 2602) 7.65783380289
+Writing timestep 381
+Extract data finished (end:Fri Dec  9 15:57:01 2016)
+Extracting data for 1995-06-16 22:00:00 (start:Fri Dec  9 15:57:01 2016)
+(902, 2602) 7.65775062154
+Writing timestep 382
+Extract data finished (end:Fri Dec  9 15:57:17 2016)
+Extracting data for 1995-06-16 23:00:00 (start:Fri Dec  9 15:57:17 2016)
+(902, 2602) 7.65619379006
+Writing timestep 383
+Extract data finished (end:Fri Dec  9 15:57:33 2016)
+Extracting data for 1995-06-17 00:00:00 (start:Fri Dec  9 15:57:33 2016)
+(902, 2602) 7.65304415437
+Writing timestep 384
+Extract data finished (end:Fri Dec  9 15:57:48 2016)
+Extracting data for 1995-06-17 01:00:00 (start:Fri Dec  9 15:57:48 2016)
+(902, 2602) 7.64707454206
+Writing timestep 385
+Extract data finished (end:Fri Dec  9 15:58:04 2016)
+Extracting data for 1995-06-17 02:00:00 (start:Fri Dec  9 15:58:04 2016)
+(902, 2602) 7.63902050207
+Writing timestep 386
+Extract data finished (end:Fri Dec  9 15:58:20 2016)
+Extracting data for 1995-06-17 03:00:00 (start:Fri Dec  9 15:58:20 2016)
+(902, 2602) 7.63039172387
+Writing timestep 387
+Extract data finished (end:Fri Dec  9 15:58:37 2016)
+Extracting data for 1995-06-17 04:00:00 (start:Fri Dec  9 15:58:37 2016)
+(902, 2602) 7.62320324855
+Writing timestep 388
+Extract data finished (end:Fri Dec  9 15:58:52 2016)
+Extracting data for 1995-06-17 05:00:00 (start:Fri Dec  9 15:58:52 2016)
+(902, 2602) 7.61973313549
+Writing timestep 389
+Extract data finished (end:Fri Dec  9 15:59:08 2016)
+Extracting data for 1995-06-17 06:00:00 (start:Fri Dec  9 15:59:08 2016)
+(902, 2602) 7.61903147852
+Writing timestep 390
+Extract data finished (end:Fri Dec  9 15:59:24 2016)
+Extracting data for 1995-06-17 07:00:00 (start:Fri Dec  9 15:59:24 2016)
+(902, 2602) 7.62183791733
+Writing timestep 391
+Extract data finished (end:Fri Dec  9 15:59:40 2016)
+Extracting data for 1995-06-17 08:00:00 (start:Fri Dec  9 15:59:40 2016)
+(902, 2602) 7.62918727078
+Writing timestep 392
+Extract data finished (end:Fri Dec  9 15:59:56 2016)
+Extracting data for 1995-06-17 09:00:00 (start:Fri Dec  9 15:59:56 2016)
+(902, 2602) 7.64025919963
+Writing timestep 393
+Extract data finished (end:Fri Dec  9 16:00:12 2016)
+Extracting data for 1995-06-17 10:00:00 (start:Fri Dec  9 16:00:12 2016)
+(902, 2602) 7.65368637379
+Writing timestep 394
+Extract data finished (end:Fri Dec  9 16:00:27 2016)
+Extracting data for 1995-06-17 11:00:00 (start:Fri Dec  9 16:00:27 2016)
+(902, 2602) 7.66899308743
+Writing timestep 395
+Extract data finished (end:Fri Dec  9 16:00:43 2016)
+Extracting data for 1995-06-17 12:00:00 (start:Fri Dec  9 16:00:43 2016)
+(902, 2602) 7.68490223906
+Writing timestep 396
+Extract data finished (end:Fri Dec  9 16:00:58 2016)
+Extracting data for 1995-06-17 13:00:00 (start:Fri Dec  9 16:00:58 2016)
+(902, 2602) 7.7007050253
+Writing timestep 397
+Extract data finished (end:Fri Dec  9 16:01:14 2016)
+Extracting data for 1995-06-17 14:00:00 (start:Fri Dec  9 16:01:14 2016)
+(902, 2602) 7.71611769763
+Writing timestep 398
+Extract data finished (end:Fri Dec  9 16:01:29 2016)
+Extracting data for 1995-06-17 15:00:00 (start:Fri Dec  9 16:01:29 2016)
+(902, 2602) 7.73056196396
+Writing timestep 399
+Extract data finished (end:Fri Dec  9 16:01:44 2016)
+Extracting data for 1995-06-17 16:00:00 (start:Fri Dec  9 16:01:44 2016)
+(902, 2602) 7.74321393212
+Writing timestep 400
+Extract data finished (end:Fri Dec  9 16:02:00 2016)
+Extracting data for 1995-06-17 17:00:00 (start:Fri Dec  9 16:02:00 2016)
+(902, 2602) 7.75396138827
+Writing timestep 401
+Extract data finished (end:Fri Dec  9 16:02:15 2016)
+Extracting data for 1995-06-17 18:00:00 (start:Fri Dec  9 16:02:15 2016)
+(902, 2602) 7.76108265859
+Writing timestep 402
+Extract data finished (end:Fri Dec  9 16:02:31 2016)
+Extracting data for 1995-06-17 19:00:00 (start:Fri Dec  9 16:02:31 2016)
+(902, 2602) 7.76430867472
+Writing timestep 403
+Extract data finished (end:Fri Dec  9 16:02:47 2016)
+Extracting data for 1995-06-17 20:00:00 (start:Fri Dec  9 16:02:47 2016)
+(902, 2602) 7.7627707294
+Writing timestep 404
+Extract data finished (end:Fri Dec  9 16:03:03 2016)
+Extracting data for 1995-06-17 21:00:00 (start:Fri Dec  9 16:03:03 2016)
+(902, 2602) 7.75915495953
+Writing timestep 405
+Extract data finished (end:Fri Dec  9 16:03:18 2016)
+Extracting data for 1995-06-17 22:00:00 (start:Fri Dec  9 16:03:18 2016)
+(902, 2602) 7.7546298874
+Writing timestep 406
+Extract data finished (end:Fri Dec  9 16:03:33 2016)
+Extracting data for 1995-06-17 23:00:00 (start:Fri Dec  9 16:03:33 2016)
+(902, 2602) 7.75019784178
+Writing timestep 407
+Extract data finished (end:Fri Dec  9 16:03:49 2016)
+Extracting data for 1995-06-18 00:00:00 (start:Fri Dec  9 16:03:49 2016)
+(902, 2602) 7.7455426753
+Writing timestep 408
+Extract data finished (end:Fri Dec  9 16:04:04 2016)
+Extracting data for 1995-06-18 01:00:00 (start:Fri Dec  9 16:04:04 2016)
+(902, 2602) 7.74006711481
+Writing timestep 409
+Extract data finished (end:Fri Dec  9 16:04:21 2016)
+Extracting data for 1995-06-18 02:00:00 (start:Fri Dec  9 16:04:21 2016)
+(902, 2602) 7.73358104868
+Writing timestep 410
+Extract data finished (end:Fri Dec  9 16:04:36 2016)
+Extracting data for 1995-06-18 03:00:00 (start:Fri Dec  9 16:04:36 2016)
+(902, 2602) 7.72544560356
+Writing timestep 411
+Extract data finished (end:Fri Dec  9 16:04:52 2016)
+Extracting data for 1995-06-18 04:00:00 (start:Fri Dec  9 16:04:52 2016)
+(902, 2602) 7.71822473956
+Writing timestep 412
+Extract data finished (end:Fri Dec  9 16:05:08 2016)
+Extracting data for 1995-06-18 05:00:00 (start:Fri Dec  9 16:05:08 2016)
+(902, 2602) 7.71399950429
+Writing timestep 413
+Extract data finished (end:Fri Dec  9 16:05:23 2016)
+Extracting data for 1995-06-18 06:00:00 (start:Fri Dec  9 16:05:23 2016)
+(902, 2602) 7.71133229948
+Writing timestep 414
+Extract data finished (end:Fri Dec  9 16:05:39 2016)
+Extracting data for 1995-06-18 07:00:00 (start:Fri Dec  9 16:05:39 2016)
+(902, 2602) 7.71008029053
+Writing timestep 415
+Extract data finished (end:Fri Dec  9 16:05:54 2016)
+Extracting data for 1995-06-18 08:00:00 (start:Fri Dec  9 16:05:54 2016)
+(902, 2602) 7.71147656927
+Writing timestep 416
+Extract data finished (end:Fri Dec  9 16:06:10 2016)
+Extracting data for 1995-06-18 09:00:00 (start:Fri Dec  9 16:06:10 2016)
+(902, 2602) 7.71566810471
+Writing timestep 417
+Extract data finished (end:Fri Dec  9 16:06:25 2016)
+Extracting data for 1995-06-18 10:00:00 (start:Fri Dec  9 16:06:25 2016)
+(902, 2602) 7.7223726136
+Writing timestep 418
+Extract data finished (end:Fri Dec  9 16:06:41 2016)
+Extracting data for 1995-06-18 11:00:00 (start:Fri Dec  9 16:06:41 2016)
+(902, 2602) 7.7311883084
+Writing timestep 419
+Extract data finished (end:Fri Dec  9 16:06:57 2016)
+Extracting data for 1995-06-18 12:00:00 (start:Fri Dec  9 16:06:57 2016)
+(902, 2602) 7.74109035415
+Writing timestep 420
+Extract data finished (end:Fri Dec  9 16:07:13 2016)
+Extracting data for 1995-06-18 13:00:00 (start:Fri Dec  9 16:07:13 2016)
+(902, 2602) 7.75197950379
+Writing timestep 421
+Extract data finished (end:Fri Dec  9 16:07:28 2016)
+Extracting data for 1995-06-18 14:00:00 (start:Fri Dec  9 16:07:28 2016)
+(902, 2602) 7.76396947932
+Writing timestep 422
+Extract data finished (end:Fri Dec  9 16:07:44 2016)
+Extracting data for 1995-06-18 15:00:00 (start:Fri Dec  9 16:07:44 2016)
+(902, 2602) 7.77534276507
+Writing timestep 423
+Extract data finished (end:Fri Dec  9 16:08:00 2016)
+Extracting data for 1995-06-18 16:00:00 (start:Fri Dec  9 16:08:00 2016)
+(902, 2602) 7.78436738793
+Writing timestep 424
+Extract data finished (end:Fri Dec  9 16:08:15 2016)
+Extracting data for 1995-06-18 17:00:00 (start:Fri Dec  9 16:08:15 2016)
+(902, 2602) 7.79026239661
+Writing timestep 425
+Extract data finished (end:Fri Dec  9 16:08:31 2016)
+Extracting data for 1995-06-18 18:00:00 (start:Fri Dec  9 16:08:31 2016)
+(902, 2602) 7.79282780449
+Writing timestep 426
+Extract data finished (end:Fri Dec  9 16:08:46 2016)
+Extracting data for 1995-06-18 19:00:00 (start:Fri Dec  9 16:08:46 2016)
+(902, 2602) 7.79229380401
+Writing timestep 427
+Extract data finished (end:Fri Dec  9 16:09:02 2016)
+Extracting data for 1995-06-18 20:00:00 (start:Fri Dec  9 16:09:02 2016)
+(902, 2602) 7.78931208906
+Writing timestep 428
+Extract data finished (end:Fri Dec  9 16:09:18 2016)
+Extracting data for 1995-06-18 21:00:00 (start:Fri Dec  9 16:09:18 2016)
+(902, 2602) 7.78455572194
+Writing timestep 429
+Extract data finished (end:Fri Dec  9 16:09:33 2016)
+Extracting data for 1995-06-18 22:00:00 (start:Fri Dec  9 16:09:33 2016)
+(902, 2602) 7.77885772178
+Writing timestep 430
+Extract data finished (end:Fri Dec  9 16:09:49 2016)
+Extracting data for 1995-06-18 23:00:00 (start:Fri Dec  9 16:09:49 2016)
+(902, 2602) 7.77296237544
+Writing timestep 431
+Extract data finished (end:Fri Dec  9 16:10:05 2016)
+Extracting data for 1995-06-19 00:00:00 (start:Fri Dec  9 16:10:05 2016)
+(902, 2602) 7.76708979613
+Writing timestep 432
+Extract data finished (end:Fri Dec  9 16:10:20 2016)
+Extracting data for 1995-06-19 01:00:00 (start:Fri Dec  9 16:10:20 2016)
+(902, 2602) 7.76147049201
+Writing timestep 433
+Extract data finished (end:Fri Dec  9 16:10:36 2016)
+Extracting data for 1995-06-19 02:00:00 (start:Fri Dec  9 16:10:36 2016)
+(902, 2602) 7.75550793603
+Writing timestep 434
+Extract data finished (end:Fri Dec  9 16:10:52 2016)
+Extracting data for 1995-06-19 03:00:00 (start:Fri Dec  9 16:10:52 2016)
+(902, 2602) 7.74910950064
+Writing timestep 435
+Extract data finished (end:Fri Dec  9 16:11:07 2016)
+Extracting data for 1995-06-19 04:00:00 (start:Fri Dec  9 16:11:07 2016)
+(902, 2602) 7.74362306902
+Writing timestep 436
+Extract data finished (end:Fri Dec  9 16:11:23 2016)
+Extracting data for 1995-06-19 05:00:00 (start:Fri Dec  9 16:11:23 2016)
+(902, 2602) 7.7403309582
+Writing timestep 437
+Extract data finished (end:Fri Dec  9 16:11:39 2016)
+Extracting data for 1995-06-19 06:00:00 (start:Fri Dec  9 16:11:39 2016)
+(902, 2602) 7.74028891132
+Writing timestep 438
+Extract data finished (end:Fri Dec  9 16:11:55 2016)
+Extracting data for 1995-06-19 07:00:00 (start:Fri Dec  9 16:11:55 2016)
+(902, 2602) 7.74365679002
+Writing timestep 439
+Extract data finished (end:Fri Dec  9 16:12:11 2016)
+Extracting data for 1995-06-19 08:00:00 (start:Fri Dec  9 16:12:11 2016)
+(902, 2602) 7.75132052239
+Writing timestep 440
+Extract data finished (end:Fri Dec  9 16:12:26 2016)
+Extracting data for 1995-06-19 09:00:00 (start:Fri Dec  9 16:12:26 2016)
+(902, 2602) 7.76387464995
+Writing timestep 441
+Extract data finished (end:Fri Dec  9 16:12:42 2016)
+Extracting data for 1995-06-19 10:00:00 (start:Fri Dec  9 16:12:42 2016)
+(902, 2602) 7.78069434711
+Writing timestep 442
+Extract data finished (end:Fri Dec  9 16:12:58 2016)
+Extracting data for 1995-06-19 11:00:00 (start:Fri Dec  9 16:12:58 2016)
+(902, 2602) 7.80159362078
+Writing timestep 443
+Extract data finished (end:Fri Dec  9 16:13:14 2016)
+Extracting data for 1995-06-19 12:00:00 (start:Fri Dec  9 16:13:14 2016)
+(902, 2602) 7.82429514708
+Writing timestep 444
+Extract data finished (end:Fri Dec  9 16:13:30 2016)
+Extracting data for 1995-06-19 13:00:00 (start:Fri Dec  9 16:13:30 2016)
+(902, 2602) 7.84779081414
+Writing timestep 445
+Extract data finished (end:Fri Dec  9 16:13:46 2016)
+Extracting data for 1995-06-19 14:00:00 (start:Fri Dec  9 16:13:46 2016)
+(902, 2602) 7.87200855631
+Writing timestep 446
+Extract data finished (end:Fri Dec  9 16:14:02 2016)
+Extracting data for 1995-06-19 15:00:00 (start:Fri Dec  9 16:14:02 2016)
+(902, 2602) 7.8935186004
+Writing timestep 447
+Extract data finished (end:Fri Dec  9 16:14:17 2016)
+Extracting data for 1995-06-19 16:00:00 (start:Fri Dec  9 16:14:17 2016)
+(902, 2602) 7.90916342437
+Writing timestep 448
+Extract data finished (end:Fri Dec  9 16:14:33 2016)
+Extracting data for 1995-06-19 17:00:00 (start:Fri Dec  9 16:14:33 2016)
+(902, 2602) 7.92134421106
+Writing timestep 449
+Extract data finished (end:Fri Dec  9 16:14:48 2016)
+Extracting data for 1995-06-19 18:00:00 (start:Fri Dec  9 16:14:48 2016)
+(902, 2602) 7.92781209599
+Writing timestep 450
+Extract data finished (end:Fri Dec  9 16:15:04 2016)
+Extracting data for 1995-06-19 19:00:00 (start:Fri Dec  9 16:15:04 2016)
+(902, 2602) 7.92740324638
+Writing timestep 451
+Extract data finished (end:Fri Dec  9 16:15:19 2016)
+Extracting data for 1995-06-19 20:00:00 (start:Fri Dec  9 16:15:19 2016)
+(902, 2602) 7.92192214345
+Writing timestep 452
+Extract data finished (end:Fri Dec  9 16:15:34 2016)
+Extracting data for 1995-06-19 21:00:00 (start:Fri Dec  9 16:15:34 2016)
+(902, 2602) 7.91318297526
+Writing timestep 453
+Extract data finished (end:Fri Dec  9 16:15:50 2016)
+Extracting data for 1995-06-19 22:00:00 (start:Fri Dec  9 16:15:50 2016)
+(902, 2602) 7.90329544952
+Writing timestep 454
+Extract data finished (end:Fri Dec  9 16:16:05 2016)
+Extracting data for 1995-06-19 23:00:00 (start:Fri Dec  9 16:16:05 2016)
+(902, 2602) 7.89328787467
+Writing timestep 455
+Extract data finished (end:Fri Dec  9 16:16:21 2016)
+Extracting data for 1995-06-20 00:00:00 (start:Fri Dec  9 16:16:21 2016)
+(902, 2602) 7.88322211261
+Writing timestep 456
+Extract data finished (end:Fri Dec  9 16:16:36 2016)
+Extracting data for 1995-06-20 01:00:00 (start:Fri Dec  9 16:16:36 2016)
+(902, 2602) 7.87308436492
+Writing timestep 457
+Extract data finished (end:Fri Dec  9 16:16:52 2016)
+Extracting data for 1995-06-20 02:00:00 (start:Fri Dec  9 16:16:52 2016)
+(902, 2602) 7.86321995159
+Writing timestep 458
+Extract data finished (end:Fri Dec  9 16:17:07 2016)
+Extracting data for 1995-06-20 03:00:00 (start:Fri Dec  9 16:17:07 2016)
+(902, 2602) 7.85454712312
+Writing timestep 459
+Extract data finished (end:Fri Dec  9 16:17:22 2016)
+Extracting data for 1995-06-20 04:00:00 (start:Fri Dec  9 16:17:22 2016)
+(902, 2602) 7.84808688362
+Writing timestep 460
+Extract data finished (end:Fri Dec  9 16:17:38 2016)
+Extracting data for 1995-06-20 05:00:00 (start:Fri Dec  9 16:17:38 2016)
+(902, 2602) 7.84510919231
+Writing timestep 461
+Extract data finished (end:Fri Dec  9 16:17:53 2016)
+Extracting data for 1995-06-20 06:00:00 (start:Fri Dec  9 16:17:53 2016)
+(902, 2602) 7.84520789912
+Writing timestep 462
+Extract data finished (end:Fri Dec  9 16:18:09 2016)
+Extracting data for 1995-06-20 07:00:00 (start:Fri Dec  9 16:18:09 2016)
+(902, 2602) 7.84899756635
+Writing timestep 463
+Extract data finished (end:Fri Dec  9 16:18:24 2016)
+Extracting data for 1995-06-20 08:00:00 (start:Fri Dec  9 16:18:24 2016)
+(902, 2602) 7.85778783522
+Writing timestep 464
+Extract data finished (end:Fri Dec  9 16:18:39 2016)
+Extracting data for 1995-06-20 09:00:00 (start:Fri Dec  9 16:18:39 2016)
+(902, 2602) 7.87169336835
+Writing timestep 465
+Extract data finished (end:Fri Dec  9 16:18:54 2016)
+Extracting data for 1995-06-20 10:00:00 (start:Fri Dec  9 16:18:54 2016)
+(902, 2602) 7.88995890337
+Writing timestep 466
+Extract data finished (end:Fri Dec  9 16:19:10 2016)
+Extracting data for 1995-06-20 11:00:00 (start:Fri Dec  9 16:19:10 2016)
+(902, 2602) 7.91029531945
+Writing timestep 467
+Extract data finished (end:Fri Dec  9 16:19:26 2016)
+Extracting data for 1995-06-20 12:00:00 (start:Fri Dec  9 16:19:26 2016)
+(902, 2602) 7.93107598881
+Writing timestep 468
+Extract data finished (end:Fri Dec  9 16:19:41 2016)
+Extracting data for 1995-06-20 13:00:00 (start:Fri Dec  9 16:19:41 2016)
+(902, 2602) 7.95193966968
+Writing timestep 469
+Extract data finished (end:Fri Dec  9 16:19:57 2016)
+Extracting data for 1995-06-20 14:00:00 (start:Fri Dec  9 16:19:57 2016)
+(902, 2602) 7.97327162428
+Writing timestep 470
+Extract data finished (end:Fri Dec  9 16:20:12 2016)
+Extracting data for 1995-06-20 15:00:00 (start:Fri Dec  9 16:20:12 2016)
+(902, 2602) 7.99294847408
+Writing timestep 471
+Extract data finished (end:Fri Dec  9 16:20:27 2016)
+Extracting data for 1995-06-20 16:00:00 (start:Fri Dec  9 16:20:27 2016)
+(902, 2602) 8.00922113068
+Writing timestep 472
+Extract data finished (end:Fri Dec  9 16:20:43 2016)
+Extracting data for 1995-06-20 17:00:00 (start:Fri Dec  9 16:20:43 2016)
+(902, 2602) 8.0207622358
+Writing timestep 473
+Extract data finished (end:Fri Dec  9 16:20:58 2016)
+Extracting data for 1995-06-20 18:00:00 (start:Fri Dec  9 16:20:58 2016)
+(902, 2602) 8.02684657031
+Writing timestep 474
+Extract data finished (end:Fri Dec  9 16:21:14 2016)
+Extracting data for 1995-06-20 19:00:00 (start:Fri Dec  9 16:21:14 2016)
+(902, 2602) 8.02816061173
+Writing timestep 475
+Extract data finished (end:Fri Dec  9 16:21:29 2016)
+Extracting data for 1995-06-20 20:00:00 (start:Fri Dec  9 16:21:29 2016)
+(902, 2602) 8.02594735701
+Writing timestep 476
+Extract data finished (end:Fri Dec  9 16:21:44 2016)
+Extracting data for 1995-06-20 21:00:00 (start:Fri Dec  9 16:21:44 2016)
+(902, 2602) 8.0201486159
+Writing timestep 477
+Extract data finished (end:Fri Dec  9 16:21:59 2016)
+Extracting data for 1995-06-20 22:00:00 (start:Fri Dec  9 16:21:59 2016)
+(902, 2602) 8.0122808553
+Writing timestep 478
+Extract data finished (end:Fri Dec  9 16:22:15 2016)
+Extracting data for 1995-06-20 23:00:00 (start:Fri Dec  9 16:22:15 2016)
+(902, 2602) 8.0032235522
+Writing timestep 479
+Extract data finished (end:Fri Dec  9 16:22:30 2016)
+Extracting data for 1995-06-21 00:00:00 (start:Fri Dec  9 16:22:30 2016)
+(902, 2602) 7.99378540088
+Writing timestep 480
+Extract data finished (end:Fri Dec  9 16:22:45 2016)
+Extracting data for 1995-06-21 01:00:00 (start:Fri Dec  9 16:22:45 2016)
+(902, 2602) 7.98480190325
+Writing timestep 481
+Extract data finished (end:Fri Dec  9 16:23:02 2016)
+Extracting data for 1995-06-21 02:00:00 (start:Fri Dec  9 16:23:02 2016)
+(902, 2602) 7.9763518759
+Writing timestep 482
+Extract data finished (end:Fri Dec  9 16:23:18 2016)
+Extracting data for 1995-06-21 03:00:00 (start:Fri Dec  9 16:23:18 2016)
+(902, 2602) 7.96858590325
+Writing timestep 483
+Extract data finished (end:Fri Dec  9 16:23:34 2016)
+Extracting data for 1995-06-21 04:00:00 (start:Fri Dec  9 16:23:34 2016)
+(902, 2602) 7.96298833918
+Writing timestep 484
+Extract data finished (end:Fri Dec  9 16:23:49 2016)
+Extracting data for 1995-06-21 05:00:00 (start:Fri Dec  9 16:23:49 2016)
+(902, 2602) 7.9612395694
+Writing timestep 485
+Extract data finished (end:Fri Dec  9 16:24:05 2016)
+Extracting data for 1995-06-21 06:00:00 (start:Fri Dec  9 16:24:05 2016)
+(902, 2602) 7.9625153754
+Writing timestep 486
+Extract data finished (end:Fri Dec  9 16:24:20 2016)
+Extracting data for 1995-06-21 07:00:00 (start:Fri Dec  9 16:24:20 2016)
+(902, 2602) 7.96687256104
+Writing timestep 487
+Extract data finished (end:Fri Dec  9 16:24:36 2016)
+Extracting data for 1995-06-21 08:00:00 (start:Fri Dec  9 16:24:36 2016)
+(902, 2602) 7.97521235903
+Writing timestep 488
+Extract data finished (end:Fri Dec  9 16:24:51 2016)
+Extracting data for 1995-06-21 09:00:00 (start:Fri Dec  9 16:24:51 2016)
+(902, 2602) 7.98764259957
+Writing timestep 489
+Extract data finished (end:Fri Dec  9 16:25:06 2016)
+Extracting data for 1995-06-21 10:00:00 (start:Fri Dec  9 16:25:06 2016)
+(902, 2602) 8.00326137205
+Writing timestep 490
+Extract data finished (end:Fri Dec  9 16:25:22 2016)
+Extracting data for 1995-06-21 11:00:00 (start:Fri Dec  9 16:25:22 2016)
+(902, 2602) 8.02087141244
+Writing timestep 491
+Extract data finished (end:Fri Dec  9 16:25:38 2016)
+Extracting data for 1995-06-21 12:00:00 (start:Fri Dec  9 16:25:38 2016)
+(902, 2602) 8.03900517812
+Writing timestep 492
+Extract data finished (end:Fri Dec  9 16:25:54 2016)
+Extracting data for 1995-06-21 13:00:00 (start:Fri Dec  9 16:25:54 2016)
+(902, 2602) 8.05696174774
+Writing timestep 493
+Extract data finished (end:Fri Dec  9 16:26:09 2016)
+Extracting data for 1995-06-21 14:00:00 (start:Fri Dec  9 16:26:09 2016)
+(902, 2602) 8.07453009346
+Writing timestep 494
+Extract data finished (end:Fri Dec  9 16:26:25 2016)
+Extracting data for 1995-06-21 15:00:00 (start:Fri Dec  9 16:26:25 2016)
+(902, 2602) 8.08881172567
+Writing timestep 495
+Extract data finished (end:Fri Dec  9 16:26:40 2016)
+Extracting data for 1995-06-21 16:00:00 (start:Fri Dec  9 16:26:40 2016)
+(902, 2602) 8.09901590862
+Writing timestep 496
+Extract data finished (end:Fri Dec  9 16:26:56 2016)
+Extracting data for 1995-06-21 17:00:00 (start:Fri Dec  9 16:26:56 2016)
+(902, 2602) 8.1046921349
+Writing timestep 497
+Extract data finished (end:Fri Dec  9 16:27:11 2016)
+Extracting data for 1995-06-21 18:00:00 (start:Fri Dec  9 16:27:11 2016)
+(902, 2602) 8.1058647444
+Writing timestep 498
+Extract data finished (end:Fri Dec  9 16:27:27 2016)
+Extracting data for 1995-06-21 19:00:00 (start:Fri Dec  9 16:27:27 2016)
+(902, 2602) 8.10223802088
+Writing timestep 499
+Extract data finished (end:Fri Dec  9 16:27:42 2016)
+Extracting data for 1995-06-21 20:00:00 (start:Fri Dec  9 16:27:42 2016)
+(902, 2602) 8.09501644675
+Writing timestep 500
+Extract data finished (end:Fri Dec  9 16:27:58 2016)
+Extracting data for 1995-06-21 21:00:00 (start:Fri Dec  9 16:27:58 2016)
+(902, 2602) 8.08492247847
+Writing timestep 501
+Extract data finished (end:Fri Dec  9 16:28:14 2016)
+Extracting data for 1995-06-21 22:00:00 (start:Fri Dec  9 16:28:14 2016)
+(902, 2602) 8.073819097
+Writing timestep 502
+Extract data finished (end:Fri Dec  9 16:28:29 2016)
+Extracting data for 1995-06-21 23:00:00 (start:Fri Dec  9 16:28:29 2016)
+(902, 2602) 8.06278131036
+Writing timestep 503
+Extract data finished (end:Fri Dec  9 16:28:45 2016)
+Extracting data for 1995-06-22 00:00:00 (start:Fri Dec  9 16:28:45 2016)
+(902, 2602) 8.05270802036
+Writing timestep 504
+Extract data finished (end:Fri Dec  9 16:29:00 2016)
+Extracting data for 1995-06-22 01:00:00 (start:Fri Dec  9 16:29:00 2016)
+(902, 2602) 8.04346994882
+Writing timestep 505
+Extract data finished (end:Fri Dec  9 16:29:17 2016)
+Extracting data for 1995-06-22 02:00:00 (start:Fri Dec  9 16:29:17 2016)
+(902, 2602) 8.03517173228
+Writing timestep 506
+Extract data finished (end:Fri Dec  9 16:29:33 2016)
+Extracting data for 1995-06-22 03:00:00 (start:Fri Dec  9 16:29:33 2016)
+(902, 2602) 8.02796916028
+Writing timestep 507
+Extract data finished (end:Fri Dec  9 16:29:48 2016)
+Extracting data for 1995-06-22 04:00:00 (start:Fri Dec  9 16:29:48 2016)
+(902, 2602) 8.02292891434
+Writing timestep 508
+Extract data finished (end:Fri Dec  9 16:30:04 2016)
+Extracting data for 1995-06-22 05:00:00 (start:Fri Dec  9 16:30:04 2016)
+(902, 2602) 8.02076465286
+Writing timestep 509
+Extract data finished (end:Fri Dec  9 16:30:19 2016)
+Extracting data for 1995-06-22 06:00:00 (start:Fri Dec  9 16:30:19 2016)
+(902, 2602) 8.02170952735
+Writing timestep 510
+Extract data finished (end:Fri Dec  9 16:30:35 2016)
+Extracting data for 1995-06-22 07:00:00 (start:Fri Dec  9 16:30:35 2016)
+(902, 2602) 8.02619352156
+Writing timestep 511
+Extract data finished (end:Fri Dec  9 16:30:50 2016)
+Extracting data for 1995-06-22 08:00:00 (start:Fri Dec  9 16:30:50 2016)
+(902, 2602) 8.03488914191
+Writing timestep 512
+Extract data finished (end:Fri Dec  9 16:31:05 2016)
+Extracting data for 1995-06-22 09:00:00 (start:Fri Dec  9 16:31:05 2016)
+(902, 2602) 8.04780656432
+Writing timestep 513
+Extract data finished (end:Fri Dec  9 16:31:21 2016)
+Extracting data for 1995-06-22 10:00:00 (start:Fri Dec  9 16:31:21 2016)
+(902, 2602) 8.0646975029
+Writing timestep 514
+Extract data finished (end:Fri Dec  9 16:31:37 2016)
+Extracting data for 1995-06-22 11:00:00 (start:Fri Dec  9 16:31:37 2016)
+(902, 2602) 8.08391276554
+Writing timestep 515
+Extract data finished (end:Fri Dec  9 16:31:52 2016)
+Extracting data for 1995-06-22 12:00:00 (start:Fri Dec  9 16:31:52 2016)
+(902, 2602) 8.1047046855
+Writing timestep 516
+Extract data finished (end:Fri Dec  9 16:32:08 2016)
+Extracting data for 1995-06-22 13:00:00 (start:Fri Dec  9 16:32:08 2016)
+(902, 2602) 8.12599660625
+Writing timestep 517
+Extract data finished (end:Fri Dec  9 16:32:23 2016)
+Extracting data for 1995-06-22 14:00:00 (start:Fri Dec  9 16:32:23 2016)
+(902, 2602) 8.14784272481
+Writing timestep 518
+Extract data finished (end:Fri Dec  9 16:32:38 2016)
+Extracting data for 1995-06-22 15:00:00 (start:Fri Dec  9 16:32:38 2016)
+(902, 2602) 8.16977263817
+Writing timestep 519
+Extract data finished (end:Fri Dec  9 16:32:54 2016)
+Extracting data for 1995-06-22 16:00:00 (start:Fri Dec  9 16:32:54 2016)
+(902, 2602) 8.19001180442
+Writing timestep 520
+Extract data finished (end:Fri Dec  9 16:33:09 2016)
+Extracting data for 1995-06-22 17:00:00 (start:Fri Dec  9 16:33:09 2016)
+(902, 2602) 8.20693667265
+Writing timestep 521
+Extract data finished (end:Fri Dec  9 16:33:25 2016)
+Extracting data for 1995-06-22 18:00:00 (start:Fri Dec  9 16:33:25 2016)
+(902, 2602) 8.2167640869
+Writing timestep 522
+Extract data finished (end:Fri Dec  9 16:33:40 2016)
+Extracting data for 1995-06-22 19:00:00 (start:Fri Dec  9 16:33:40 2016)
+(902, 2602) 8.21624469539
+Writing timestep 523
+Extract data finished (end:Fri Dec  9 16:33:56 2016)
+Extracting data for 1995-06-22 20:00:00 (start:Fri Dec  9 16:33:56 2016)
+(902, 2602) 8.20772485419
+Writing timestep 524
+Extract data finished (end:Fri Dec  9 16:34:11 2016)
+Extracting data for 1995-06-22 21:00:00 (start:Fri Dec  9 16:34:11 2016)
+(902, 2602) 8.19400370743
+Writing timestep 525
+Extract data finished (end:Fri Dec  9 16:34:27 2016)
+Extracting data for 1995-06-22 22:00:00 (start:Fri Dec  9 16:34:27 2016)
+(902, 2602) 8.17742469961
+Writing timestep 526
+Extract data finished (end:Fri Dec  9 16:34:42 2016)
+Extracting data for 1995-06-22 23:00:00 (start:Fri Dec  9 16:34:42 2016)
+(902, 2602) 8.16079166942
+Writing timestep 527
+Extract data finished (end:Fri Dec  9 16:34:57 2016)
+Extracting data for 1995-06-23 00:00:00 (start:Fri Dec  9 16:34:57 2016)
+(902, 2602) 8.14480644366
+Writing timestep 528
+Extract data finished (end:Fri Dec  9 16:35:13 2016)
+Extracting data for 1995-06-23 01:00:00 (start:Fri Dec  9 16:35:13 2016)
+(902, 2602) 8.12854600817
+Writing timestep 529
+Extract data finished (end:Fri Dec  9 16:35:28 2016)
+Extracting data for 1995-06-23 02:00:00 (start:Fri Dec  9 16:35:28 2016)
+(902, 2602) 8.11307560921
+Writing timestep 530
+Extract data finished (end:Fri Dec  9 16:35:44 2016)
+Extracting data for 1995-06-23 03:00:00 (start:Fri Dec  9 16:35:44 2016)
+(902, 2602) 8.0992238267
+Writing timestep 531
+Extract data finished (end:Fri Dec  9 16:35:59 2016)
+Extracting data for 1995-06-23 04:00:00 (start:Fri Dec  9 16:35:59 2016)
+(902, 2602) 8.0893041196
+Writing timestep 532
+Extract data finished (end:Fri Dec  9 16:36:15 2016)
+Extracting data for 1995-06-23 05:00:00 (start:Fri Dec  9 16:36:15 2016)
+(902, 2602) 8.08532126257
+Writing timestep 533
+Extract data finished (end:Fri Dec  9 16:36:30 2016)
+Extracting data for 1995-06-23 06:00:00 (start:Fri Dec  9 16:36:30 2016)
+(902, 2602) 8.08603887978
+Writing timestep 534
+Extract data finished (end:Fri Dec  9 16:36:46 2016)
+Extracting data for 1995-06-23 07:00:00 (start:Fri Dec  9 16:36:46 2016)
+(902, 2602) 8.09095405348
+Writing timestep 535
+Extract data finished (end:Fri Dec  9 16:37:01 2016)
+Extracting data for 1995-06-23 08:00:00 (start:Fri Dec  9 16:37:01 2016)
+(902, 2602) 8.10007322138
+Writing timestep 536
+Extract data finished (end:Fri Dec  9 16:37:16 2016)
+Extracting data for 1995-06-23 09:00:00 (start:Fri Dec  9 16:37:16 2016)
+(902, 2602) 8.1128366916
+Writing timestep 537
+Extract data finished (end:Fri Dec  9 16:37:32 2016)
+Extracting data for 1995-06-23 10:00:00 (start:Fri Dec  9 16:37:32 2016)
+(902, 2602) 8.12804962431
+Writing timestep 538
+Extract data finished (end:Fri Dec  9 16:37:48 2016)
+Extracting data for 1995-06-23 11:00:00 (start:Fri Dec  9 16:37:48 2016)
+(902, 2602) 8.14397080389
+Writing timestep 539
+Extract data finished (end:Fri Dec  9 16:38:04 2016)
+Extracting data for 1995-06-23 12:00:00 (start:Fri Dec  9 16:38:04 2016)
+(902, 2602) 8.15918443933
+Writing timestep 540
+Extract data finished (end:Fri Dec  9 16:38:19 2016)
+Extracting data for 1995-06-23 13:00:00 (start:Fri Dec  9 16:38:19 2016)
+(902, 2602) 8.17408767116
+Writing timestep 541
+Extract data finished (end:Fri Dec  9 16:38:35 2016)
+Extracting data for 1995-06-23 14:00:00 (start:Fri Dec  9 16:38:35 2016)
+(902, 2602) 8.19172887835
+Writing timestep 542
+Extract data finished (end:Fri Dec  9 16:38:51 2016)
+Extracting data for 1995-06-23 15:00:00 (start:Fri Dec  9 16:38:51 2016)
+(902, 2602) 8.21125726014
+Writing timestep 543
+Extract data finished (end:Fri Dec  9 16:39:06 2016)
+Extracting data for 1995-06-23 16:00:00 (start:Fri Dec  9 16:39:06 2016)
+(902, 2602) 8.23100440349
+Writing timestep 544
+Extract data finished (end:Fri Dec  9 16:39:22 2016)
+Extracting data for 1995-06-23 17:00:00 (start:Fri Dec  9 16:39:22 2016)
+(902, 2602) 8.24738009144
+Writing timestep 545
+Extract data finished (end:Fri Dec  9 16:39:37 2016)
+Extracting data for 1995-06-23 18:00:00 (start:Fri Dec  9 16:39:37 2016)
+(902, 2602) 8.25649121163
+Writing timestep 546
+Extract data finished (end:Fri Dec  9 16:39:53 2016)
+Extracting data for 1995-06-23 19:00:00 (start:Fri Dec  9 16:39:53 2016)
+(902, 2602) 8.25738134638
+Writing timestep 547
+Extract data finished (end:Fri Dec  9 16:40:08 2016)
+Extracting data for 1995-06-23 20:00:00 (start:Fri Dec  9 16:40:08 2016)
+(902, 2602) 8.25256671388
+Writing timestep 548
+Extract data finished (end:Fri Dec  9 16:40:24 2016)
+Extracting data for 1995-06-23 21:00:00 (start:Fri Dec  9 16:40:24 2016)
+(902, 2602) 8.2443044815
+Writing timestep 549
+Extract data finished (end:Fri Dec  9 16:40:39 2016)
+Extracting data for 1995-06-23 22:00:00 (start:Fri Dec  9 16:40:39 2016)
+(902, 2602) 8.23541288872
+Writing timestep 550
+Extract data finished (end:Fri Dec  9 16:40:55 2016)
+Extracting data for 1995-06-23 23:00:00 (start:Fri Dec  9 16:40:55 2016)
+(902, 2602) 8.22638044866
+Writing timestep 551
+Extract data finished (end:Fri Dec  9 16:41:10 2016)
+Extracting data for 1995-06-24 00:00:00 (start:Fri Dec  9 16:41:10 2016)
+(902, 2602) 8.2175973125
+Writing timestep 552
+Extract data finished (end:Fri Dec  9 16:41:26 2016)
+Extracting data for 1995-06-24 01:00:00 (start:Fri Dec  9 16:41:26 2016)
+(902, 2602) 8.20891305128
+Writing timestep 553
+Extract data finished (end:Fri Dec  9 16:41:42 2016)
+Extracting data for 1995-06-24 02:00:00 (start:Fri Dec  9 16:41:42 2016)
+(902, 2602) 8.20048413641
+Writing timestep 554
+Extract data finished (end:Fri Dec  9 16:41:58 2016)
+Extracting data for 1995-06-24 03:00:00 (start:Fri Dec  9 16:41:58 2016)
+(902, 2602) 8.19278381503
+Writing timestep 555
+Extract data finished (end:Fri Dec  9 16:42:14 2016)
+Extracting data for 1995-06-24 04:00:00 (start:Fri Dec  9 16:42:14 2016)
+(902, 2602) 8.1871269179
+Writing timestep 556
+Extract data finished (end:Fri Dec  9 16:42:29 2016)
+Extracting data for 1995-06-24 05:00:00 (start:Fri Dec  9 16:42:29 2016)
+(902, 2602) 8.18489901516
+Writing timestep 557
+Extract data finished (end:Fri Dec  9 16:42:45 2016)
+Extracting data for 1995-06-24 06:00:00 (start:Fri Dec  9 16:42:45 2016)
+(902, 2602) 8.18591800176
+Writing timestep 558
+Extract data finished (end:Fri Dec  9 16:43:00 2016)
+Extracting data for 1995-06-24 07:00:00 (start:Fri Dec  9 16:43:00 2016)
+(902, 2602) 8.19057336554
+Writing timestep 559
+Extract data finished (end:Fri Dec  9 16:43:16 2016)
+Extracting data for 1995-06-24 08:00:00 (start:Fri Dec  9 16:43:16 2016)
+(902, 2602) 8.19919376694
+Writing timestep 560
+Extract data finished (end:Fri Dec  9 16:43:31 2016)
+Extracting data for 1995-06-24 09:00:00 (start:Fri Dec  9 16:43:31 2016)
+(902, 2602) 8.21108477148
+Writing timestep 561
+Extract data finished (end:Fri Dec  9 16:43:47 2016)
+Extracting data for 1995-06-24 10:00:00 (start:Fri Dec  9 16:43:47 2016)
+(902, 2602) 8.2253098779
+Writing timestep 562
+Extract data finished (end:Fri Dec  9 16:44:02 2016)
+Extracting data for 1995-06-24 11:00:00 (start:Fri Dec  9 16:44:02 2016)
+(902, 2602) 8.24065418498
+Writing timestep 563
+Extract data finished (end:Fri Dec  9 16:44:18 2016)
+Extracting data for 1995-06-24 12:00:00 (start:Fri Dec  9 16:44:18 2016)
+(902, 2602) 8.25569275902
+Writing timestep 564
+Extract data finished (end:Fri Dec  9 16:44:34 2016)
+Extracting data for 1995-06-24 13:00:00 (start:Fri Dec  9 16:44:34 2016)
+(902, 2602) 8.27082300067
+Writing timestep 565
+Extract data finished (end:Fri Dec  9 16:44:50 2016)
+Extracting data for 1995-06-24 14:00:00 (start:Fri Dec  9 16:44:50 2016)
+(902, 2602) 8.2872306738
+Writing timestep 566
+Extract data finished (end:Fri Dec  9 16:45:06 2016)
+Extracting data for 1995-06-24 15:00:00 (start:Fri Dec  9 16:45:06 2016)
+(902, 2602) 8.30407599364
+Writing timestep 567
+Extract data finished (end:Fri Dec  9 16:45:21 2016)
+Extracting data for 1995-06-24 16:00:00 (start:Fri Dec  9 16:45:21 2016)
+(902, 2602) 8.31980851819
+Writing timestep 568
+Extract data finished (end:Fri Dec  9 16:45:37 2016)
+Extracting data for 1995-06-24 17:00:00 (start:Fri Dec  9 16:45:37 2016)
+(902, 2602) 8.33260921486
+Writing timestep 569
+Extract data finished (end:Fri Dec  9 16:45:52 2016)
+Extracting data for 1995-06-24 18:00:00 (start:Fri Dec  9 16:45:52 2016)
+(902, 2602) 8.34122614696
+Writing timestep 570
+Extract data finished (end:Fri Dec  9 16:46:08 2016)
+Extracting data for 1995-06-24 19:00:00 (start:Fri Dec  9 16:46:08 2016)
+(902, 2602) 8.34360145655
+Writing timestep 571
+Extract data finished (end:Fri Dec  9 16:46:24 2016)
+Extracting data for 1995-06-24 20:00:00 (start:Fri Dec  9 16:46:24 2016)
+(902, 2602) 8.34047480307
+Writing timestep 572
+Extract data finished (end:Fri Dec  9 16:46:40 2016)
+Extracting data for 1995-06-24 21:00:00 (start:Fri Dec  9 16:46:40 2016)
+(902, 2602) 8.33308531767
+Writing timestep 573
+Extract data finished (end:Fri Dec  9 16:46:55 2016)
+Extracting data for 1995-06-24 22:00:00 (start:Fri Dec  9 16:46:55 2016)
+(902, 2602) 8.32367553858
+Writing timestep 574
+Extract data finished (end:Fri Dec  9 16:47:11 2016)
+Extracting data for 1995-06-24 23:00:00 (start:Fri Dec  9 16:47:11 2016)
+(902, 2602) 8.31409132205
+Writing timestep 575
+Extract data finished (end:Fri Dec  9 16:47:27 2016)
+Extracting data for 1995-06-25 00:00:00 (start:Fri Dec  9 16:47:27 2016)
+(902, 2602) 8.30529287916
+Writing timestep 576
+Extract data finished (end:Fri Dec  9 16:47:42 2016)
+Extracting data for 1995-06-25 01:00:00 (start:Fri Dec  9 16:47:42 2016)
+(902, 2602) 8.29727618514
+Writing timestep 577
+Extract data finished (end:Fri Dec  9 16:47:59 2016)
+Extracting data for 1995-06-25 02:00:00 (start:Fri Dec  9 16:47:59 2016)
+(902, 2602) 8.28979563034
+Writing timestep 578
+Extract data finished (end:Fri Dec  9 16:48:15 2016)
+Extracting data for 1995-06-25 03:00:00 (start:Fri Dec  9 16:48:15 2016)
+(902, 2602) 8.28314981234
+Writing timestep 579
+Extract data finished (end:Fri Dec  9 16:48:30 2016)
+Extracting data for 1995-06-25 04:00:00 (start:Fri Dec  9 16:48:30 2016)
+(902, 2602) 8.27851967779
+Writing timestep 580
+Extract data finished (end:Fri Dec  9 16:48:46 2016)
+Extracting data for 1995-06-25 05:00:00 (start:Fri Dec  9 16:48:46 2016)
+(902, 2602) 8.27714636673
+Writing timestep 581
+Extract data finished (end:Fri Dec  9 16:49:02 2016)
+Extracting data for 1995-06-25 06:00:00 (start:Fri Dec  9 16:49:02 2016)
+(902, 2602) 8.27910319205
+Writing timestep 582
+Extract data finished (end:Fri Dec  9 16:49:17 2016)
+Extracting data for 1995-06-25 07:00:00 (start:Fri Dec  9 16:49:17 2016)
+(902, 2602) 8.28437175898
+Writing timestep 583
+Extract data finished (end:Fri Dec  9 16:49:33 2016)
+Extracting data for 1995-06-25 08:00:00 (start:Fri Dec  9 16:49:33 2016)
+(902, 2602) 8.293112155
+Writing timestep 584
+Extract data finished (end:Fri Dec  9 16:49:48 2016)
+Extracting data for 1995-06-25 09:00:00 (start:Fri Dec  9 16:49:48 2016)
+(902, 2602) 8.30523278153
+Writing timestep 585
+Extract data finished (end:Fri Dec  9 16:50:04 2016)
+Extracting data for 1995-06-25 10:00:00 (start:Fri Dec  9 16:50:04 2016)
+(902, 2602) 8.3207120625
+Writing timestep 586
+Extract data finished (end:Fri Dec  9 16:50:20 2016)
+Extracting data for 1995-06-25 11:00:00 (start:Fri Dec  9 16:50:20 2016)
+(902, 2602) 8.33652753211
+Writing timestep 587
+Extract data finished (end:Fri Dec  9 16:50:36 2016)
+Extracting data for 1995-06-25 12:00:00 (start:Fri Dec  9 16:50:36 2016)
+(902, 2602) 8.35090870195
+Writing timestep 588
+Extract data finished (end:Fri Dec  9 16:50:51 2016)
+Extracting data for 1995-06-25 13:00:00 (start:Fri Dec  9 16:50:51 2016)
+(902, 2602) 8.36489265462
+Writing timestep 589
+Extract data finished (end:Fri Dec  9 16:51:07 2016)
+Extracting data for 1995-06-25 14:00:00 (start:Fri Dec  9 16:51:07 2016)
+(902, 2602) 8.37919640318
+Writing timestep 590
+Extract data finished (end:Fri Dec  9 16:51:22 2016)
+Extracting data for 1995-06-25 15:00:00 (start:Fri Dec  9 16:51:22 2016)
+(902, 2602) 8.39251349616
+Writing timestep 591
+Extract data finished (end:Fri Dec  9 16:51:38 2016)
+Extracting data for 1995-06-25 16:00:00 (start:Fri Dec  9 16:51:38 2016)
+(902, 2602) 8.40352534622
+Writing timestep 592
+Extract data finished (end:Fri Dec  9 16:51:53 2016)
+Extracting data for 1995-06-25 17:00:00 (start:Fri Dec  9 16:51:53 2016)
+(902, 2602) 8.41002116274
+Writing timestep 593
+Extract data finished (end:Fri Dec  9 16:52:09 2016)
+Extracting data for 1995-06-25 18:00:00 (start:Fri Dec  9 16:52:09 2016)
+(902, 2602) 8.41341417165
+Writing timestep 594
+Extract data finished (end:Fri Dec  9 16:52:25 2016)
+Extracting data for 1995-06-25 19:00:00 (start:Fri Dec  9 16:52:25 2016)
+(902, 2602) 8.41416489683
+Writing timestep 595
+Extract data finished (end:Fri Dec  9 16:52:40 2016)
+Extracting data for 1995-06-25 20:00:00 (start:Fri Dec  9 16:52:40 2016)
+(902, 2602) 8.40922355319
+Writing timestep 596
+Extract data finished (end:Fri Dec  9 16:52:56 2016)
+Extracting data for 1995-06-25 21:00:00 (start:Fri Dec  9 16:52:56 2016)
+(902, 2602) 8.39855551523
+Writing timestep 597
+Extract data finished (end:Fri Dec  9 16:53:11 2016)
+Extracting data for 1995-06-25 22:00:00 (start:Fri Dec  9 16:53:11 2016)
+(902, 2602) 8.38403924096
+Writing timestep 598
+Extract data finished (end:Fri Dec  9 16:53:27 2016)
+Extracting data for 1995-06-25 23:00:00 (start:Fri Dec  9 16:53:27 2016)
+(902, 2602) 8.36837250024
+Writing timestep 599
+Extract data finished (end:Fri Dec  9 16:53:42 2016)
+Extracting data for 1995-06-26 00:00:00 (start:Fri Dec  9 16:53:42 2016)
+(902, 2602) 8.3531070966
+Writing timestep 600
+Extract data finished (end:Fri Dec  9 16:53:57 2016)
+Extracting data for 1995-06-26 01:00:00 (start:Fri Dec  9 16:53:57 2016)
+(902, 2602) 8.33836457186
+Writing timestep 601
+Extract data finished (end:Fri Dec  9 16:54:15 2016)
+Extracting data for 1995-06-26 02:00:00 (start:Fri Dec  9 16:54:15 2016)
+(902, 2602) 8.32434111238
+Writing timestep 602
+Extract data finished (end:Fri Dec  9 16:54:30 2016)
+Extracting data for 1995-06-26 03:00:00 (start:Fri Dec  9 16:54:30 2016)
+(902, 2602) 8.31136719731
+Writing timestep 603
+Extract data finished (end:Fri Dec  9 16:54:46 2016)
+Extracting data for 1995-06-26 04:00:00 (start:Fri Dec  9 16:54:46 2016)
+(902, 2602) 8.30187683093
+Writing timestep 604
+Extract data finished (end:Fri Dec  9 16:55:01 2016)
+Extracting data for 1995-06-26 05:00:00 (start:Fri Dec  9 16:55:01 2016)
+(902, 2602) 8.29749160563
+Writing timestep 605
+Extract data finished (end:Fri Dec  9 16:55:16 2016)
+Extracting data for 1995-06-26 06:00:00 (start:Fri Dec  9 16:55:16 2016)
+(902, 2602) 8.29701276574
+Writing timestep 606
+Extract data finished (end:Fri Dec  9 16:55:32 2016)
+Extracting data for 1995-06-26 07:00:00 (start:Fri Dec  9 16:55:32 2016)
+(902, 2602) 8.30034523863
+Writing timestep 607
+Extract data finished (end:Fri Dec  9 16:55:47 2016)
+Extracting data for 1995-06-26 08:00:00 (start:Fri Dec  9 16:55:47 2016)
+(902, 2602) 8.30703961331
+Writing timestep 608
+Extract data finished (end:Fri Dec  9 16:56:02 2016)
+Extracting data for 1995-06-26 09:00:00 (start:Fri Dec  9 16:56:02 2016)
+(902, 2602) 8.31670592791
+Writing timestep 609
+Extract data finished (end:Fri Dec  9 16:56:17 2016)
+Extracting data for 1995-06-26 10:00:00 (start:Fri Dec  9 16:56:17 2016)
+(902, 2602) 8.32895748513
+Writing timestep 610
+Extract data finished (end:Fri Dec  9 16:56:33 2016)
+Extracting data for 1995-06-26 11:00:00 (start:Fri Dec  9 16:56:33 2016)
+(902, 2602) 8.34246258507
+Writing timestep 611
+Extract data finished (end:Fri Dec  9 16:56:49 2016)
+Extracting data for 1995-06-26 12:00:00 (start:Fri Dec  9 16:56:49 2016)
+(902, 2602) 8.35597063053
+Writing timestep 612
+Extract data finished (end:Fri Dec  9 16:57:04 2016)
+Extracting data for 1995-06-26 13:00:00 (start:Fri Dec  9 16:57:04 2016)
+(902, 2602) 8.36999863432
+Writing timestep 613
+Extract data finished (end:Fri Dec  9 16:57:20 2016)
+Extracting data for 1995-06-26 14:00:00 (start:Fri Dec  9 16:57:20 2016)
+(902, 2602) 8.38415728725
+Writing timestep 614
+Extract data finished (end:Fri Dec  9 16:57:35 2016)
+Extracting data for 1995-06-26 15:00:00 (start:Fri Dec  9 16:57:35 2016)
+(902, 2602) 8.39810666936
+Writing timestep 615
+Extract data finished (end:Fri Dec  9 16:57:50 2016)
+Extracting data for 1995-06-26 16:00:00 (start:Fri Dec  9 16:57:50 2016)
+(902, 2602) 8.41212343003
+Writing timestep 616
+Extract data finished (end:Fri Dec  9 16:58:06 2016)
+Extracting data for 1995-06-26 17:00:00 (start:Fri Dec  9 16:58:06 2016)
+(902, 2602) 8.42225698263
+Writing timestep 617
+Extract data finished (end:Fri Dec  9 16:58:22 2016)
+Extracting data for 1995-06-26 18:00:00 (start:Fri Dec  9 16:58:22 2016)
+(902, 2602) 8.42734181191
+Writing timestep 618
+Extract data finished (end:Fri Dec  9 16:58:37 2016)
+Extracting data for 1995-06-26 19:00:00 (start:Fri Dec  9 16:58:37 2016)
+(902, 2602) 8.42870412712
+Writing timestep 619
+Extract data finished (end:Fri Dec  9 16:58:52 2016)
+Extracting data for 1995-06-26 20:00:00 (start:Fri Dec  9 16:58:52 2016)
+(902, 2602) 8.42619375216
+Writing timestep 620
+Extract data finished (end:Fri Dec  9 16:59:08 2016)
+Extracting data for 1995-06-26 21:00:00 (start:Fri Dec  9 16:59:08 2016)
+(902, 2602) 8.42078555601
+Writing timestep 621
+Extract data finished (end:Fri Dec  9 16:59:23 2016)
+Extracting data for 1995-06-26 22:00:00 (start:Fri Dec  9 16:59:23 2016)
+(902, 2602) 8.4142232887
+Writing timestep 622
+Extract data finished (end:Fri Dec  9 16:59:39 2016)
+Extracting data for 1995-06-26 23:00:00 (start:Fri Dec  9 16:59:39 2016)
+(902, 2602) 8.4073070361
+Writing timestep 623
+Extract data finished (end:Fri Dec  9 16:59:54 2016)
+Extracting data for 1995-06-27 00:00:00 (start:Fri Dec  9 16:59:54 2016)
+(902, 2602) 8.3985646052
+Writing timestep 624
+Extract data finished (end:Fri Dec  9 17:00:10 2016)
+Extracting data for 1995-06-27 01:00:00 (start:Fri Dec  9 17:00:10 2016)
+(902, 2602) 8.38906744471
+Writing timestep 625
+Extract data finished (end:Fri Dec  9 17:00:26 2016)
+Extracting data for 1995-06-27 02:00:00 (start:Fri Dec  9 17:00:26 2016)
+(902, 2602) 8.38025472407
+Writing timestep 626
+Extract data finished (end:Fri Dec  9 17:00:42 2016)
+Extracting data for 1995-06-27 03:00:00 (start:Fri Dec  9 17:00:42 2016)
+(902, 2602) 8.37265007005
+Writing timestep 627
+Extract data finished (end:Fri Dec  9 17:00:58 2016)
+Extracting data for 1995-06-27 04:00:00 (start:Fri Dec  9 17:00:58 2016)
+(902, 2602) 8.36715358824
+Writing timestep 628
+Extract data finished (end:Fri Dec  9 17:01:14 2016)
+Extracting data for 1995-06-27 05:00:00 (start:Fri Dec  9 17:01:14 2016)
+(902, 2602) 8.36498812495
+Writing timestep 629
+Extract data finished (end:Fri Dec  9 17:01:29 2016)
+Extracting data for 1995-06-27 06:00:00 (start:Fri Dec  9 17:01:29 2016)
+(902, 2602) 8.36684112654
+Writing timestep 630
+Extract data finished (end:Fri Dec  9 17:01:45 2016)
+Extracting data for 1995-06-27 07:00:00 (start:Fri Dec  9 17:01:45 2016)
+(902, 2602) 8.37291210551
+Writing timestep 631
+Extract data finished (end:Fri Dec  9 17:02:00 2016)
+Extracting data for 1995-06-27 08:00:00 (start:Fri Dec  9 17:02:00 2016)
+(902, 2602) 8.38342839991
+Writing timestep 632
+Extract data finished (end:Fri Dec  9 17:02:15 2016)
+Extracting data for 1995-06-27 09:00:00 (start:Fri Dec  9 17:02:15 2016)
+(902, 2602) 8.39759563324
+Writing timestep 633
+Extract data finished (end:Fri Dec  9 17:02:31 2016)
+Extracting data for 1995-06-27 10:00:00 (start:Fri Dec  9 17:02:31 2016)
+(902, 2602) 8.41416756028
+Writing timestep 634
+Extract data finished (end:Fri Dec  9 17:02:46 2016)
+Extracting data for 1995-06-27 11:00:00 (start:Fri Dec  9 17:02:46 2016)
+(902, 2602) 8.43146123372
+Writing timestep 635
+Extract data finished (end:Fri Dec  9 17:03:02 2016)
+Extracting data for 1995-06-27 12:00:00 (start:Fri Dec  9 17:03:02 2016)
+(902, 2602) 8.44805669101
+Writing timestep 636
+Extract data finished (end:Fri Dec  9 17:03:17 2016)
+Extracting data for 1995-06-27 13:00:00 (start:Fri Dec  9 17:03:17 2016)
+(902, 2602) 8.46504965667
+Writing timestep 637
+Extract data finished (end:Fri Dec  9 17:03:33 2016)
+Extracting data for 1995-06-27 14:00:00 (start:Fri Dec  9 17:03:33 2016)
+(902, 2602) 8.48178393442
+Writing timestep 638
+Extract data finished (end:Fri Dec  9 17:03:48 2016)
+Extracting data for 1995-06-27 15:00:00 (start:Fri Dec  9 17:03:48 2016)
+(902, 2602) 8.49667604834
+Writing timestep 639
+Extract data finished (end:Fri Dec  9 17:04:04 2016)
+Extracting data for 1995-06-27 16:00:00 (start:Fri Dec  9 17:04:04 2016)
+(902, 2602) 8.50969391391
+Writing timestep 640
+Extract data finished (end:Fri Dec  9 17:04:20 2016)
+Extracting data for 1995-06-27 17:00:00 (start:Fri Dec  9 17:04:20 2016)
+(902, 2602) 8.52021301113
+Writing timestep 641
+Extract data finished (end:Fri Dec  9 17:04:35 2016)
+Extracting data for 1995-06-27 18:00:00 (start:Fri Dec  9 17:04:35 2016)
+(902, 2602) 8.52784219509
+Writing timestep 642
+Extract data finished (end:Fri Dec  9 17:04:51 2016)
+Extracting data for 1995-06-27 19:00:00 (start:Fri Dec  9 17:04:51 2016)
+(902, 2602) 8.53239282829
+Writing timestep 643
+Extract data finished (end:Fri Dec  9 17:05:06 2016)
+Extracting data for 1995-06-27 20:00:00 (start:Fri Dec  9 17:05:06 2016)
+(902, 2602) 8.53433865247
+Writing timestep 644
+Extract data finished (end:Fri Dec  9 17:05:22 2016)
+Extracting data for 1995-06-27 21:00:00 (start:Fri Dec  9 17:05:22 2016)
+(902, 2602) 8.53165590348
+Writing timestep 645
+Extract data finished (end:Fri Dec  9 17:05:38 2016)
+Extracting data for 1995-06-27 22:00:00 (start:Fri Dec  9 17:05:38 2016)
+(902, 2602) 8.52506776384
+Writing timestep 646
+Extract data finished (end:Fri Dec  9 17:05:53 2016)
+Extracting data for 1995-06-27 23:00:00 (start:Fri Dec  9 17:05:53 2016)
+(902, 2602) 8.5160481609
+Writing timestep 647
+Extract data finished (end:Fri Dec  9 17:06:09 2016)
+Extracting data for 1995-06-28 00:00:00 (start:Fri Dec  9 17:06:09 2016)
+(902, 2602) 8.50591875675
+Writing timestep 648
+Extract data finished (end:Fri Dec  9 17:06:24 2016)
+Extracting data for 1995-06-28 01:00:00 (start:Fri Dec  9 17:06:24 2016)
+(902, 2602) 8.4953583057
+Writing timestep 649
+Extract data finished (end:Fri Dec  9 17:06:41 2016)
+Extracting data for 1995-06-28 02:00:00 (start:Fri Dec  9 17:06:41 2016)
+(902, 2602) 8.48511762687
+Writing timestep 650
+Extract data finished (end:Fri Dec  9 17:06:56 2016)
+Extracting data for 1995-06-28 03:00:00 (start:Fri Dec  9 17:06:56 2016)
+(902, 2602) 8.47609471664
+Writing timestep 651
+Extract data finished (end:Fri Dec  9 17:07:12 2016)
+Extracting data for 1995-06-28 04:00:00 (start:Fri Dec  9 17:07:12 2016)
+(902, 2602) 8.46921899061
+Writing timestep 652
+Extract data finished (end:Fri Dec  9 17:07:28 2016)
+Extracting data for 1995-06-28 05:00:00 (start:Fri Dec  9 17:07:28 2016)
+(902, 2602) 8.46625002463
+Writing timestep 653
+Extract data finished (end:Fri Dec  9 17:07:44 2016)
+Extracting data for 1995-06-28 06:00:00 (start:Fri Dec  9 17:07:44 2016)
+(902, 2602) 8.46725587466
+Writing timestep 654
+Extract data finished (end:Fri Dec  9 17:07:59 2016)
+Extracting data for 1995-06-28 07:00:00 (start:Fri Dec  9 17:07:59 2016)
+(902, 2602) 8.47222142128
+Writing timestep 655
+Extract data finished (end:Fri Dec  9 17:08:14 2016)
+Extracting data for 1995-06-28 08:00:00 (start:Fri Dec  9 17:08:14 2016)
+(902, 2602) 8.48116690456
+Writing timestep 656
+Extract data finished (end:Fri Dec  9 17:08:30 2016)
+Extracting data for 1995-06-28 09:00:00 (start:Fri Dec  9 17:08:30 2016)
+(902, 2602) 8.49317396341
+Writing timestep 657
+Extract data finished (end:Fri Dec  9 17:08:45 2016)
+Extracting data for 1995-06-28 10:00:00 (start:Fri Dec  9 17:08:45 2016)
+(902, 2602) 8.50675999374
+Writing timestep 658
+Extract data finished (end:Fri Dec  9 17:09:01 2016)
+Extracting data for 1995-06-28 11:00:00 (start:Fri Dec  9 17:09:01 2016)
+(902, 2602) 8.52123427654
+Writing timestep 659
+Extract data finished (end:Fri Dec  9 17:09:17 2016)
+Extracting data for 1995-06-28 12:00:00 (start:Fri Dec  9 17:09:17 2016)
+(902, 2602) 8.53626056278
+Writing timestep 660
+Extract data finished (end:Fri Dec  9 17:09:33 2016)
+Extracting data for 1995-06-28 13:00:00 (start:Fri Dec  9 17:09:33 2016)
+(902, 2602) 8.55112610481
+Writing timestep 661
+Extract data finished (end:Fri Dec  9 17:09:48 2016)
+Extracting data for 1995-06-28 14:00:00 (start:Fri Dec  9 17:09:48 2016)
+(902, 2602) 8.56658367456
+Writing timestep 662
+Extract data finished (end:Fri Dec  9 17:10:04 2016)
+Extracting data for 1995-06-28 15:00:00 (start:Fri Dec  9 17:10:04 2016)
+(902, 2602) 8.58121319376
+Writing timestep 663
+Extract data finished (end:Fri Dec  9 17:10:19 2016)
+Extracting data for 1995-06-28 16:00:00 (start:Fri Dec  9 17:10:19 2016)
+(902, 2602) 8.59316506134
+Writing timestep 664
+Extract data finished (end:Fri Dec  9 17:10:35 2016)
+Extracting data for 1995-06-28 17:00:00 (start:Fri Dec  9 17:10:35 2016)
+(902, 2602) 8.60148273747
+Writing timestep 665
+Extract data finished (end:Fri Dec  9 17:10:51 2016)
+Extracting data for 1995-06-28 18:00:00 (start:Fri Dec  9 17:10:51 2016)
+(902, 2602) 8.60570325462
+Writing timestep 666
+Extract data finished (end:Fri Dec  9 17:11:07 2016)
+Extracting data for 1995-06-28 19:00:00 (start:Fri Dec  9 17:11:07 2016)
+(902, 2602) 8.60492162283
+Writing timestep 667
+Extract data finished (end:Fri Dec  9 17:11:22 2016)
+Extracting data for 1995-06-28 20:00:00 (start:Fri Dec  9 17:11:22 2016)
+(902, 2602) 8.59928786203
+Writing timestep 668
+Extract data finished (end:Fri Dec  9 17:11:38 2016)
+Extracting data for 1995-06-28 21:00:00 (start:Fri Dec  9 17:11:38 2016)
+(902, 2602) 8.58930920986
+Writing timestep 669
+Extract data finished (end:Fri Dec  9 17:11:54 2016)
+Extracting data for 1995-06-28 22:00:00 (start:Fri Dec  9 17:11:54 2016)
+(902, 2602) 8.57676724775
+Writing timestep 670
+Extract data finished (end:Fri Dec  9 17:12:09 2016)
+Extracting data for 1995-06-28 23:00:00 (start:Fri Dec  9 17:12:09 2016)
+(902, 2602) 8.56294730767
+Writing timestep 671
+Extract data finished (end:Fri Dec  9 17:12:25 2016)
+Extracting data for 1995-06-29 00:00:00 (start:Fri Dec  9 17:12:25 2016)
+(902, 2602) 8.54897392587
+Writing timestep 672
+Extract data finished (end:Fri Dec  9 17:12:41 2016)
+Extracting data for 1995-06-29 01:00:00 (start:Fri Dec  9 17:12:41 2016)
+(902, 2602) 8.53530399707
+Writing timestep 673
+Extract data finished (end:Fri Dec  9 17:12:58 2016)
+Extracting data for 1995-06-29 02:00:00 (start:Fri Dec  9 17:12:58 2016)
+(902, 2602) 8.52222776856
+Writing timestep 674
+Extract data finished (end:Fri Dec  9 17:13:13 2016)
+Extracting data for 1995-06-29 03:00:00 (start:Fri Dec  9 17:13:13 2016)
+(902, 2602) 8.50991949502
+Writing timestep 675
+Extract data finished (end:Fri Dec  9 17:13:29 2016)
+Extracting data for 1995-06-29 04:00:00 (start:Fri Dec  9 17:13:29 2016)
+(902, 2602) 8.4997593671
+Writing timestep 676
+Extract data finished (end:Fri Dec  9 17:13:45 2016)
+Extracting data for 1995-06-29 05:00:00 (start:Fri Dec  9 17:13:45 2016)
+(902, 2602) 8.49372557704
+Writing timestep 677
+Extract data finished (end:Fri Dec  9 17:14:00 2016)
+Extracting data for 1995-06-29 06:00:00 (start:Fri Dec  9 17:14:00 2016)
+(902, 2602) 8.49199280735
+Writing timestep 678
+Extract data finished (end:Fri Dec  9 17:14:16 2016)
+Extracting data for 1995-06-29 07:00:00 (start:Fri Dec  9 17:14:16 2016)
+(902, 2602) 8.49456357981
+Writing timestep 679
+Extract data finished (end:Fri Dec  9 17:14:32 2016)
+Extracting data for 1995-06-29 08:00:00 (start:Fri Dec  9 17:14:32 2016)
+(902, 2602) 8.50166890793
+Writing timestep 680
+Extract data finished (end:Fri Dec  9 17:14:47 2016)
+Extracting data for 1995-06-29 09:00:00 (start:Fri Dec  9 17:14:47 2016)
+(902, 2602) 8.51242762018
+Writing timestep 681
+Extract data finished (end:Fri Dec  9 17:15:03 2016)
+Extracting data for 1995-06-29 10:00:00 (start:Fri Dec  9 17:15:03 2016)
+(902, 2602) 8.52498055969
+Writing timestep 682
+Extract data finished (end:Fri Dec  9 17:15:18 2016)
+Extracting data for 1995-06-29 11:00:00 (start:Fri Dec  9 17:15:18 2016)
+(902, 2602) 8.53815795492
+Writing timestep 683
+Extract data finished (end:Fri Dec  9 17:15:34 2016)
+Extracting data for 1995-06-29 12:00:00 (start:Fri Dec  9 17:15:34 2016)
+(902, 2602) 8.55108037633
+Writing timestep 684
+Extract data finished (end:Fri Dec  9 17:15:50 2016)
+Extracting data for 1995-06-29 13:00:00 (start:Fri Dec  9 17:15:50 2016)
+(902, 2602) 8.56375979139
+Writing timestep 685
+Extract data finished (end:Fri Dec  9 17:16:06 2016)
+Extracting data for 1995-06-29 14:00:00 (start:Fri Dec  9 17:16:06 2016)
+(902, 2602) 8.5764776323
+Writing timestep 686
+Extract data finished (end:Fri Dec  9 17:16:21 2016)
+Extracting data for 1995-06-29 15:00:00 (start:Fri Dec  9 17:16:21 2016)
+(902, 2602) 8.58951922758
+Writing timestep 687
+Extract data finished (end:Fri Dec  9 17:16:37 2016)
+Extracting data for 1995-06-29 16:00:00 (start:Fri Dec  9 17:16:37 2016)
+(902, 2602) 8.6015304479
+Writing timestep 688
+Extract data finished (end:Fri Dec  9 17:16:52 2016)
+Extracting data for 1995-06-29 17:00:00 (start:Fri Dec  9 17:16:52 2016)
+(902, 2602) 8.61195155913
+Writing timestep 689
+Extract data finished (end:Fri Dec  9 17:17:08 2016)
+Extracting data for 1995-06-29 18:00:00 (start:Fri Dec  9 17:17:08 2016)
+(902, 2602) 8.62018515792
+Writing timestep 690
+Extract data finished (end:Fri Dec  9 17:17:24 2016)
+Extracting data for 1995-06-29 19:00:00 (start:Fri Dec  9 17:17:24 2016)
+(902, 2602) 8.62273899926
+Writing timestep 691
+Extract data finished (end:Fri Dec  9 17:17:40 2016)
+Extracting data for 1995-06-29 20:00:00 (start:Fri Dec  9 17:17:40 2016)
+(902, 2602) 8.61843170502
+Writing timestep 692
+Extract data finished (end:Fri Dec  9 17:17:56 2016)
+Extracting data for 1995-06-29 21:00:00 (start:Fri Dec  9 17:17:56 2016)
+(902, 2602) 8.60924878551
+Writing timestep 693
+Extract data finished (end:Fri Dec  9 17:18:11 2016)
+Extracting data for 1995-06-29 22:00:00 (start:Fri Dec  9 17:18:11 2016)
+(902, 2602) 8.59831654576
+Writing timestep 694
+Extract data finished (end:Fri Dec  9 17:18:27 2016)
+Extracting data for 1995-06-29 23:00:00 (start:Fri Dec  9 17:18:27 2016)
+(902, 2602) 8.58688295171
+Writing timestep 695
+Extract data finished (end:Fri Dec  9 17:18:42 2016)
+Extracting data for 1995-06-30 00:00:00 (start:Fri Dec  9 17:18:42 2016)
+(902, 2602) 8.57539991148
+Writing timestep 696
+Extract data finished (end:Fri Dec  9 17:18:58 2016)
+Extracting data for 1995-06-30 01:00:00 (start:Fri Dec  9 17:18:58 2016)
+(902, 2602) 8.56374883907
+Writing timestep 697
+Extract data finished (end:Fri Dec  9 17:19:15 2016)
+Extracting data for 1995-06-30 02:00:00 (start:Fri Dec  9 17:19:15 2016)
+(902, 2602) 8.55205709571
+Writing timestep 698
+Extract data finished (end:Fri Dec  9 17:19:30 2016)
+Extracting data for 1995-06-30 03:00:00 (start:Fri Dec  9 17:19:30 2016)
+(902, 2602) 8.54128780273
+Writing timestep 699
+Extract data finished (end:Fri Dec  9 17:19:46 2016)
+Extracting data for 1995-06-30 04:00:00 (start:Fri Dec  9 17:19:46 2016)
+(902, 2602) 8.53235264365
+Writing timestep 700
+Extract data finished (end:Fri Dec  9 17:20:02 2016)
+Extracting data for 1995-06-30 05:00:00 (start:Fri Dec  9 17:20:02 2016)
+(902, 2602) 8.5269056262
+Writing timestep 701
+Extract data finished (end:Fri Dec  9 17:20:17 2016)
+Extracting data for 1995-06-30 06:00:00 (start:Fri Dec  9 17:20:17 2016)
+(902, 2602) 8.52574552215
+Writing timestep 702
+Extract data finished (end:Fri Dec  9 17:20:33 2016)
+Extracting data for 1995-06-30 07:00:00 (start:Fri Dec  9 17:20:33 2016)
+(902, 2602) 8.52918504639
+Writing timestep 703
+Extract data finished (end:Fri Dec  9 17:20:48 2016)
+Extracting data for 1995-06-30 08:00:00 (start:Fri Dec  9 17:20:48 2016)
+(902, 2602) 8.53716830286
+Writing timestep 704
+Extract data finished (end:Fri Dec  9 17:21:04 2016)
+Extracting data for 1995-06-30 09:00:00 (start:Fri Dec  9 17:21:04 2016)
+(902, 2602) 8.54886956287
+Writing timestep 705
+Extract data finished (end:Fri Dec  9 17:21:19 2016)
+Extracting data for 1995-06-30 10:00:00 (start:Fri Dec  9 17:21:19 2016)
+(902, 2602) 8.56350781957
+Writing timestep 706
+Extract data finished (end:Fri Dec  9 17:21:35 2016)
+Extracting data for 1995-06-30 11:00:00 (start:Fri Dec  9 17:21:35 2016)
+(902, 2602) 8.57900727851
+Writing timestep 707
+Extract data finished (end:Fri Dec  9 17:21:51 2016)
+Extracting data for 1995-06-30 12:00:00 (start:Fri Dec  9 17:21:51 2016)
+(902, 2602) 8.59351556325
+Writing timestep 708
+Extract data finished (end:Fri Dec  9 17:22:07 2016)
+Extracting data for 1995-06-30 13:00:00 (start:Fri Dec  9 17:22:07 2016)
+(902, 2602) 8.60658880478
+Writing timestep 709
+Extract data finished (end:Fri Dec  9 17:22:23 2016)
+Extracting data for 1995-06-30 14:00:00 (start:Fri Dec  9 17:22:23 2016)
+(902, 2602) 8.62047029513
+Writing timestep 710
+Extract data finished (end:Fri Dec  9 17:22:38 2016)
+Extracting data for 1995-06-30 15:00:00 (start:Fri Dec  9 17:22:38 2016)
+(902, 2602) 8.6341516281
+Writing timestep 711
+Extract data finished (end:Fri Dec  9 17:22:54 2016)
+Extracting data for 1995-06-30 16:00:00 (start:Fri Dec  9 17:22:54 2016)
+(902, 2602) 8.64467445034
+Writing timestep 712
+Extract data finished (end:Fri Dec  9 17:23:10 2016)
+Extracting data for 1995-06-30 17:00:00 (start:Fri Dec  9 17:23:10 2016)
+(902, 2602) 8.6485081804
+Writing timestep 713
+Extract data finished (end:Fri Dec  9 17:23:25 2016)
+Extracting data for 1995-06-30 18:00:00 (start:Fri Dec  9 17:23:25 2016)
+(902, 2602) 8.64558201324
+Writing timestep 714
+Extract data finished (end:Fri Dec  9 17:23:41 2016)
+Extracting data for 1995-06-30 19:00:00 (start:Fri Dec  9 17:23:41 2016)
+(902, 2602) 8.63709941093
+Writing timestep 715
+Extract data finished (end:Fri Dec  9 17:23:57 2016)
+Extracting data for 1995-06-30 20:00:00 (start:Fri Dec  9 17:23:57 2016)
+(902, 2602) 8.62382324547
+Writing timestep 716
+Extract data finished (end:Fri Dec  9 17:24:12 2016)
+Extracting data for 1995-06-30 21:00:00 (start:Fri Dec  9 17:24:12 2016)
+(902, 2602) 8.60840685189
+Writing timestep 717
+Extract data finished (end:Fri Dec  9 17:24:28 2016)
+Extracting data for 1995-06-30 22:00:00 (start:Fri Dec  9 17:24:28 2016)
+(902, 2602) 8.59261301691
+Writing timestep 718
+Extract data finished (end:Fri Dec  9 17:24:44 2016)
+Extracting data for 1995-06-30 23:00:00 (start:Fri Dec  9 17:24:44 2016)
+(902, 2602) 8.57688875057
+Writing timestep 719
+Extract data finished (end:Fri Dec  9 17:24:59 2016)
+Finished with year 1995
+Starting loop for year 1996
+base+pattern) /work/shared/imr/NorKyst-800m/NorKyst800_hindcast_1995-2005/his/1996/norkyst_800m_his.nc4_*
+Time found in input data covering: 1996-01-01 01:00:00 to 1996-01-02 00:00:00
+Finished with year 1996
+Starting loop for year 1997
+base+pattern) /work/shared/imr/NorKyst-800m/NorKyst800_hindcast_1995-2005/his/1997/norkyst_800m_his.nc4_*
+Application 8379346 exit codes: 1
+Application 8379346 resources: utime ~7759s, stime ~3340s, Rss ~5775268, inblocks ~84340922, outblocks ~74500
