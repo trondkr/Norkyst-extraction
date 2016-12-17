@@ -6,7 +6,9 @@ import os
 import IOwriteanomalies
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
-
+import sys
+from scipy import stats
+import numpy.polynomial.polynomial as poly
 
 __author__ = 'Trond Kristiansen'
 __email__ = 'trond.kristiansen@niva.no'
@@ -25,7 +27,47 @@ be re-written to its current layout of loops to minimize the memory consumption.
 
 """
 
-def calculateYearlyAnomalies(temp,day,year,x,y,times,refdate):
+def calculateAnomalies(temp,totalDays):
+
+	print "=> Calculating anomalies of de-trended data"
+	arrayOne=np.zeros((np.shape(temp)))
+
+	for day in xrange(0,totalDays,1):
+		for hour in xrange(0,24,1):
+			test=np.squeeze(temp[day,:,:,:])
+	#		print "hour %s %s mean %s"%(day,hour)
+	#		print np.mean(test,axis=0)
+			arrayOne[day,hour,:,:]=temp[day,hour,:,:]-np.mean(test,axis=0)
+			#print "arrayone", arrayOne[day,hour,:,900]
+			#print "temp", temp[day,hour,:,900]
+
+	return arrayOne
+
+def removeTrend(tt,days):
+
+	fit = poly.polyfit(days,tt,1)
+	fit_fn = poly.polyval(days,fit)
+	fit_fn=np.flipud(np.rot90(fit_fn))
+
+	trend=tt-fit_fn
+
+	#print np.shape(tt),np.shape(fit_fn)
+
+	#print "tt",tt[:,200]
+	#print "fit_fn",fit_fn[:,200]
+	#print detrended[:,200]
+	#f, axarr = plt.subplots(2, sharex=True)
+	#axarr[0].plot(days,tt[:,200],'o',color='m')
+	#axarr[0].plot(days,fit_fn[:,200],'o',color='r')
+
+	#axarr[1].plot(tt-detrended[:,200],'o')
+	#print "detrended",detrended
+
+	#plt.show()
+	return tt-trend
+	
+
+def extractHourlyTemperature(temp,day,year,x,y,times,refdate):
 
 	arrayOne=np.empty((24,x,y))
 
@@ -37,25 +79,23 @@ def calculateYearlyAnomalies(temp,day,year,x,y,times,refdate):
 		if int(currentDate.day) == int(day) and currentDate.year==year:
 			arrayOne[int(currentDate.hour),:,:]=np.squeeze(temp[t,:,:])
 
-			print "=> Found value for hour: %s day: %s in year: %s"%(currentDate.hour,currentDate.day,currentDate.year)
+			print "Trend => Found value for hour: %s day: %s in year: %s"%(currentDate.hour,currentDate.day,currentDate.year)
 	
 	arrayOne=np.ma.masked_where(abs(arrayOne) > 1000, arrayOne,copy=False)
-
 	average=np.mean(arrayOne,axis=0)
-	average=np.ma.masked_where(abs(average) > 1000, average,copy=False)
-
-	print "Average over all ", np.ma.mean(arrayOne)
-	arrayOne = arrayOne[0:24,:,:] - average
-
+	
 	print "Average anomaly over all ", np.mean(arrayOne)
 
 	return arrayOne
 
+
+
 def main():
 
-	depth=4
+	depth=10
 	startYear=1995
 	endYear=1996
+	totalDays=30
 	selectedMonth=6 # June
 	myformat="NETCDF3_CLASSIC"
 
@@ -82,21 +122,43 @@ def main():
  	noyears=int(enddate.year-startdate.year+1)
 	years=[startdate.year+yy for yy in xrange(noyears)]
 
- 	finalArray=np.zeros((30,24,x,y))
- 	
- 	for day in xrange(30):
+	finalArray=np.zeros((totalDays,24,x,y))
+	trendArray=np.zeros((24,x,y))
+	hours=[hh for hh in xrange(1,25,1)]
+	days=[hh for hh in xrange(1,totalDays+1,1)]
+	
+ 	for dayCounter in xrange(totalDays):
 		for yearCounter in xrange(noyears):
-			finalArray[day,:,:,:]=calculateYearlyAnomalies(temp,day+1,years[yearCounter],x,y,times,refdate)
+			year=years[yearCounter]
+			day=days[dayCounter]
+			
+ 			finalArray[dayCounter,:,:,:]=finalArray[dayCounter,:,:,:] + extractHourlyTemperature(temp,day,year,x,y,times,refdate)
+
+ 	#finalArray[dayCounter,:,:,:]=(finalArray[dayCounter,:,:,:]/yearCounter*1.0)
+
+# 	finalArray = np.ma.masked_where(abs(finalArray) > 1000, finalArray)
 
 	
-	#print "Dividing by observations over years to get daily average variation %s"%(counter)
-	finalArray[day,:,:,:]=(finalArray[day,:,:,:]/noyears*1.0)
-	finalArray=np.ma.masked_where(abs(finalArray) > 1000, finalArray,copy=False)
-	print finalArray
+ 	for hour in xrange(len(hours)):
+ 		for xi in xrange(x):
+ 			#print hour,xi,np.mean(np.squeeze(finalArray[:,hour,xi,:]))
+ 			detrended = removeTrend(np.squeeze(finalArray[:,hour,xi,:]),days)
+ 			#print detrended
+ 			finalArray[:,hour,xi,:] = detrended
+	
+	finalArray = calculateAnomalies(finalArray,totalDays)
 
-	delivery=np.squeeze(np.mean(finalArray,0))
-
-	IOwriteanomalies.writeToFile(outfilename,depth,myformat,delivery,longitude,latitude,startYear,endYear,selectedMonth)
+	finalArray = np.ma.masked_where(abs(finalArray) < 1e-14, finalArray)
+	print "Averaging axis = 0 for size ",np.shape(finalArray)
+	# average over all days
+	finalData=np.ma.mean(finalArray,axis=0)
+	print np.shape(finalData)
+	print "final after mean",finalData
+	
+	#finalData = np.ma.masked_where(abs(finalData) > 1000, finalData,copy=False)
+	
+	
+	IOwriteanomalies.writeToFile(outfilename,depth,myformat,finalData,longitude,latitude,startYear,endYear,selectedMonth)
 
 
 if __name__ == "__main__":

@@ -36,6 +36,7 @@ def contourMap(mydata,tlon,tlat,hour,depth):
                   resolution='l',projection='tmerc',lon_0=15,lat_0=66,area_thresh=200.)
           
     delta=20
+    print mydata.min(),mydata.max()
     levels = np.arange(mydata.min()-0.5,mydata.max()+0.5,(mydata.max()-mydata.min())/20.)
     levels = np.arange(-0.15,0.15,0.01)
         
@@ -69,7 +70,7 @@ def contourMap(mydata,tlon,tlat,hour,depth):
 
 doc="""This script reads the output from running calculateDiurnalAnomalies"""
 
-depth=4
+depth=10
 startYear=1995
 endYear=1996
 selectedMonth=6 # June
